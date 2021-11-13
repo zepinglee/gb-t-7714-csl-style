@@ -14,7 +14,7 @@
 
 [3] 北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.
 
-[4] 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[R]. 北京: 中国标准出版社, 2010: 2-3.
+[4] 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3.
 
 [5] 徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.
 
@@ -24,7 +24,7 @@
 
 [8] 牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.
 
-[9] 中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[M]. 桂林: 广西师范大学出版社, 2001.
+[9] 中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.
 
 [10] 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20101104-BPO-889-1023&cult=CN.
 
@@ -56,11 +56,11 @@
 
 [24] ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M/OL]//AMERICAN WATER WORKS ASSOCIATION. Water quality & treatment: a handbook on drinking water. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10]. http://lib.myilibrary.com/Open.aspx?id=291430.
 
-[25] 中华医学会湖北分会. 临床内科杂志: 卷 1[M]. 武汉: 中华医学会湖北分会, 1984.
+[25] 中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.
 
-[26] 中国图书馆学会. 图书馆学通讯[M]. 北京: 北京图书馆, 1957-1990.
+[26] 中国图书馆学会. 图书馆学通讯[J]. 1957-1990(1-4). 北京: 北京图书馆, 1957-1990.
 
-[27] AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. Science: 卷 1[M]. Washington, D.C.: American Association for the Advancement of Science, 1883.
+[27] AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.
 
 [28] 袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.
 
@@ -184,13 +184,13 @@
 
 [88] KOSEKI A, MOMOSE H, KAWAHITO M, 等. Compiler: US828402[P/OL]. 2002-05-25[2002-05-28]. http://FF&p=1&u=netahtml/PTO/search-bool.html&r=5&f=G&1=50&col=AND&d=PG01&sl=IBM.AS.&OS=AN/IBM/RS=AN/IBM.
 
-[89] 全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.7—2009[R]. 北京: 中国标准出版社, 2010: 3.
+[89] 全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.7—2009[S]. 北京: 中国标准出版社, 2010: 3.
 
-[90] 全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[R]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.
+[90] 全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.
 
-[91] 国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[R/OL]. 北京: 中国标准出版社, 1996: 2-3[2013-10-14]. http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html.
+[91] 国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S/OL]. 北京: 中国标准出版社, 1996: 2-3[2013-10-14]. http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html.
 
-[92] Information and documentation—the Dublin cord metadata element set: ISO 15836: 2009[R/OL]. (2009)[2013-03-24]. http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142.
+[92] Information and documentation—the Dublin cord metadata element set: ISO 15836: 2009[S/OL]. (2009)[2013-03-24]. http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142.
 
 [93] 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.
 
@@ -198,7 +198,7 @@
 
 [95] 汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.
 
-[96] 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[R]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.
+[96] 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.
 
 [97] 宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.
 

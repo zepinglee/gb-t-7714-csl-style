@@ -315,6 +315,13 @@
       </choose>
     </group>
   </macro>
+  <!-- 获取和访问路径以及 DOI -->
+  <macro name="url-doi">
+    <group delimiter=". ">
+      <text variable="URL"/>
+      <text variable="DOI" prefix="DOI:"/>
+    </group>
+  </macro>
   <!-- 专著和电子资源 -->
   <macro name="monograph-layout">
     <group delimiter=". " suffix=".">
@@ -323,8 +330,7 @@
       <text macro="secondary-contributor"/>
       <text macro="edition"/>
       <text macro="publishing"/>
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <text macro="url-doi"/>
     </group>
   </macro>
   <!-- 专著中的析出文献 -->
@@ -343,8 +349,7 @@
       </group>
       <text macro="edition"/>
       <text macro="publishing"/>
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <text macro="url-doi"/>
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->
@@ -353,8 +358,7 @@
       <text macro="author"/>
       <text macro="title"/>
       <text macro="periodical-publishing"/>
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <text macro="url-doi"/>
     </group>
   </macro>
   <!-- 专利文献 -->
@@ -366,8 +370,7 @@
         <text macro="issued-date"/>
         <text macro="accessed-date"/>
       </group>
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <text macro="url-doi"/>
     </group>
   </macro>
   <!-- 参考文献表格式 -->

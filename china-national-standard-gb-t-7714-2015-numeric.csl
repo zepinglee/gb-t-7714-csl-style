@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " delimiter-precedes-last="always" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " delimiter-precedes-last="always" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded">
   <info>
-    <title>China National Standard GB/T 7714-2015 (numeric, 中文)</title>
-    <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="self"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <title>Tsinghua University (numeric)</title>
+    <id>http://www.zotero.org/styles/tsinghua-university-numeric</id>
+    <link href="http://www.zotero.org/styles/tsinghua-university-numeric" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <link href="http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&amp;parentColumnId=0010506&amp;itemSeq=5365" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
-    <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
-    </contributor>
+    </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T 7714-2015 numeric style</summary>
-    <updated>2021-11-22T20:34:00+08:00</updated>
+    <summary>The numeric reference style for Tsinghua University's dissertation with multi-locale support.</summary>
+    <updated>2021-11-22T20:52:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -55,7 +52,7 @@
   <macro name="author">
     <names variable="author">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <substitute>
@@ -92,7 +89,7 @@
   <macro name="container-author">
     <names variable="editor">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <substitute>
@@ -191,7 +188,7 @@
   <macro name="secondary-contributor">
     <names variable="translator">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
@@ -233,9 +230,23 @@
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation patent report" match="any">
-              <text variable="number"/>
+            <if type="patent">
+              <group delimiter=", ">
+                <choose>
+                  <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 没有对应的域，所以 `publisher-place` 作为备选 -->
+                  <if variable="jurisdiction">
+                    <text variable="jurisdiction"/>
+                  </if>
+                  <else>
+                    <text variable="publisher-place"/>
+                  </else>
+                </choose>
+                <text variable="number"/>
+              </group>
             </if>
+            <else-if type="bill legal_case legislation report" match="any">
+              <text variable="number"/>
+            </else-if>
           </choose>
         </group>
       </group>
@@ -396,6 +407,10 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout locale="zh">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="entry-layout"/>
+    </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>

@@ -223,14 +223,18 @@
     <group delimiter=", ">
       <group delimiter=": ">
         <text variable="title"/>
-        <choose>
-          <if variable="number">
-            <text variable="number"/>
-          </if>
-          <else-if variable="container-title" type="paper-conference" match="none">
-            <text macro="book-volume"/>
-          </else-if>
-        </choose>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="paper-conference" match="none">
+              <text macro="book-volume"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="bill legal_case legislation patent report" match="any">
+              <text variable="number"/>
+            </if>
+          </choose>
+        </group>
       </group>
       <choose>
         <if variable="container-title" type="paper-conference" match="none">
@@ -261,7 +265,7 @@
         <else-if type="article-newspaper">
           <text value="N"/>
         </else-if>
-        <else-if type="bill legislation" match="any">
+        <else-if type="bill legal_case legislation" match="any">
           <text value="A"/>
         </else-if>
         <else-if type="book chapter" match="any">

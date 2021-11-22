@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>China National Standard GB/T 7714-2015 (author-date, 中文)</title>
-    <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <title>China National Standard GB/T 7714-2005 (author-date, 中文)</title>
+    <id>http://www.zotero.org/styles/chinese-gb7714-2005-author-date</id>
+    <link href="http://www.zotero.org/styles/chinese-gb7714-2005-author-date" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D78562D3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
+      <name>heromyth</name>
+      <email>zxpmyth@yahoo.com.cn</email>
     </author>
+    <contributor>
+      <name>Kristene Collins</name>
+      <uri>http://www.mendeley.com/profiles/kristene-collins1/</uri>
+    </contributor>
     <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T 7714-2015 author-date style</summary>
-    <updated>2021-11-22T20:34:00+08:00</updated>
+    <summary>The Chinese GB/T 7714-2005 author-date style</summary>
+    <updated>2021-11-22T20:36:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -74,7 +78,7 @@
   </macro>
   <!-- 参考文献表的著者姓名与出版年 -->
   <macro name="author-date">
-    <group delimiter=", ">
+    <group delimiter=". ">
       <text macro="author"/>
       <text macro="issued-year"/>
     </group>
@@ -252,9 +256,23 @@
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
-              <text variable="number"/>
+            <if type="patent">
+              <group delimiter=", ">
+                <choose>
+                  <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 没有对应的域，所以 `publisher-place` 作为备选 -->
+                  <if variable="jurisdiction">
+                    <text variable="jurisdiction"/>
+                  </if>
+                  <else>
+                    <text variable="publisher-place"/>
+                  </else>
+                </choose>
+                <text variable="number"/>
+              </group>
             </if>
+            <else-if type="bill legal_case legislation regulation report standard" match="any">
+              <text variable="number"/>
+            </else-if>
           </choose>
         </group>
       </group>
@@ -291,17 +309,11 @@
         <else-if type="article-newspaper">
           <text value="N"/>
         </else-if>
-        <else-if type="bill collection legal_case legislation regulation" match="any">
-          <text value="A"/>
-        </else-if>
         <else-if type="book chapter" match="any">
           <text value="M"/>
         </else-if>
         <else-if type="dataset">
-          <text value="DS"/>
-        </else-if>
-        <else-if type="map">
-          <text value="CM"/>
+          <text value="DB"/>
         </else-if>
         <else-if type="paper-conference">
           <text value="C"/>
@@ -324,8 +336,11 @@
         <else-if type="thesis">
           <text value="D"/>
         </else-if>
+        <else-if variable="URL">
+          <text value="EB"/>
+        </else-if>
         <else>
-          <text value="Z"/>
+          <text value="M"/>
         </else>
       </choose>
       <choose>
@@ -337,10 +352,14 @@
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="url-doi">
-    <group delimiter=". ">
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group>
+    <choose>
+      <if variable="URL">
+        <text variable="URL"/>
+      </if>
+      <else>
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </else>
+    </choose>
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">

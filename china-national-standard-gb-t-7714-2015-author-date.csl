@@ -202,9 +202,10 @@
       <text variable="page"/>
     </group>
     <choose>
-      <if variable="URL DOI" match="any">
+      <!-- 纯电子资源显示“更新或修改日期” -->
+      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
         <choose>
-          <if variable="publisher" match="none">
+          <if variable="URL DOI" match="any">
             <text macro="issued-date" prefix="(" suffix=")"/>
           </if>
         </choose>

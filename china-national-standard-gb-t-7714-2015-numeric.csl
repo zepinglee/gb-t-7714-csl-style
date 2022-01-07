@@ -31,10 +31,6 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page" form="short">
-        <single>p.</single>
-        <multiple>pp.</multiple>
-      </term>
     </terms>
   </locale>
   <locale>
@@ -401,11 +397,6 @@
   <macro name="citation-layout">
     <group>
       <text variable="citation-number"/>
-      <group prefix="(" suffix=")">
-        <!-- 国标要求在方括号外著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
-        <label variable="locator" suffix=". " form="short" strip-periods="true"/>
-        <text variable="locator"/>
-      </group>
     </group>
   </macro>
   <!-- 参考文献表格式 -->

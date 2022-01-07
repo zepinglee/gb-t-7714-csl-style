@@ -397,6 +397,17 @@
       <text macro="url-doi"/>
     </group>
   </macro>
+  <!-- 正文中引用的文献标注格式 -->
+  <macro name="citation-layout">
+    <group>
+      <text variable="citation-number"/>
+      <group prefix="(" suffix=")">
+        <!-- 国标要求在方括号外著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
+        <label variable="locator" suffix=". " form="short" strip-periods="true"/>
+        <text variable="locator"/>
+      </group>
+    </group>
+  </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
     <choose>
@@ -419,15 +430,15 @@
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
-      <text variable="citation-number"/>
-      <group prefix="(" suffix=")">
-        <!-- 国标要求在方括号外著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
-        <label variable="locator" suffix=". " form="short" strip-periods="true"/>
-        <text variable="locator"/>
-      </group>
+      <text macro="citation-layout"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
+    <!-- <layout locale="en">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="entry-layout"/>
+    </layout> -->
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>

@@ -418,6 +418,20 @@
       <text macro="url-doi"/>
     </group>
   </macro>
+  <!-- 正文中引用的文献标注格式 -->
+  <macro name="citation-layout">
+    <group>
+      <group delimiter=", ">
+        <text macro="author-intext"/>
+        <text macro="issued-year"/>
+        <group>
+          <!-- 国标要求在括号外以角标的形式著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
+          <label variable="locator" form="short"/>
+          <text variable="locator"/>
+        </group>
+      </group>
+    </group>
+  </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
     <choose>
@@ -439,16 +453,12 @@
     </choose>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" collapse="year">
+    <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
+    <!-- <layout prefix="(" suffix=")" delimiter="; " locale="en">
+      <text macro="citation-layout"/>
+    </layout> -->
     <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-intext"/>
-        <text macro="issued-year"/>
-        <group>
-          <!-- 国标要求在括号外以角标的形式著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
-          <label variable="locator" form="short"/>
-          <text variable="locator"/>
-        </group>
-      </group>
+      <text macro="citation-layout"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
@@ -457,6 +467,10 @@
       <key macro="issued-year"/>
       <key variable="title"/>
     </sort>
+    <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
+    <!-- <layout locale="en">
+      <text macro="entry-layout"/>
+    </layout> -->
     <layout>
       <text macro="entry-layout"/>
     </layout>

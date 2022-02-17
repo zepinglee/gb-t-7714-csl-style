@@ -83,9 +83,7 @@
   <macro name="author-intext">
     <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="short" delimiter="&#160;" delimiter-precedes-et-al="always">
-        <name-part name="family" text-case="uppercase"/>
-      </name>
+      <name form="short" delimiter="&#160;" delimiter-precedes-et-al="always"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

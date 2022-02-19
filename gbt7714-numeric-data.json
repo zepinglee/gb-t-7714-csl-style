@@ -91,7 +91,7 @@
         "publisher": "中国标准出版社",
         "publisher-place": "北京",
         "title": "信息与文献 都柏林核心元数据元素集",
-        "type": "report"
+        "type": "standard"
     },
     {
         "author": [
@@ -200,7 +200,7 @@
         "publisher": "广西师范大学出版社",
         "publisher-place": "桂林",
         "title": "中国明朝档案总汇",
-        "type": "book"
+        "type": "collection"
     },
     {
         "URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20101104-BPO-889-1023&cult=CN",
@@ -706,7 +706,7 @@
         "publisher": "中华医学会湖北分会",
         "publisher-place": "武汉",
         "title": "临床内科杂志",
-        "type": "book",
+        "type": "periodical",
         "volume": "1"
     },
     {
@@ -731,7 +731,7 @@
         "publisher": "北京图书馆",
         "publisher-place": "北京",
         "title": "图书馆学通讯",
-        "type": "book"
+        "type": "periodical"
     },
     {
         "author": [
@@ -752,7 +752,7 @@
         "publisher": "American Association for the Advancement of Science",
         "publisher-place": "Washington, D.C.",
         "title": "Science",
-        "type": "book",
+        "type": "periodical",
         "volume": "1"
     },
     {
@@ -1215,7 +1215,7 @@
         },
         "language": "zh-CN",
         "title": "关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号",
-        "type": "legislation"
+        "type": "regulation"
     },
     {
         "URL": "http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf",
@@ -2508,7 +2508,7 @@
         "publisher": "中国标准出版社",
         "publisher-place": "北京",
         "title": "文献著录: 第 4 部分 非书资料",
-        "type": "report"
+        "type": "standard"
     },
     {
         "author": [
@@ -2530,7 +2530,7 @@
         "publisher": "国家广播电影电视总局广播电视规划院",
         "publisher-place": "北京",
         "title": "广播电视音像资料编目规范: 第 2 部分 广播资料",
-        "type": "report"
+        "type": "standard"
     },
     {
         "URL": "http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html",
@@ -2562,7 +2562,7 @@
         "publisher": "中国标准出版社",
         "publisher-place": "北京",
         "title": "土壤环境质量标准",
-        "type": "report"
+        "type": "standard"
     },
     {
         "URL": "http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142",
@@ -2586,7 +2586,7 @@
         "language": "en",
         "number": "ISO 15836: 2009",
         "title": "Information and documentation—the Dublin cord metadata element set",
-        "type": "report"
+        "type": "standard"
     },
     {
         "container-title": "苏魏公文集: 下册",
@@ -2685,7 +2685,7 @@
         "publisher": "中国标准出版社",
         "publisher-place": "北京",
         "title": "世界各国和地区名称代码",
-        "type": "report"
+        "type": "standard"
     },
     {
         "container-title": "宋史: 第 1 册",

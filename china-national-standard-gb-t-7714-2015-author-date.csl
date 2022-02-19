@@ -33,10 +33,6 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page" form="short">
-        <single>p.</single>
-        <multiple>pp.</multiple>
-      </term>
     </terms>
   </locale>
   <locale>
@@ -83,13 +79,28 @@
       <text macro="issued-year"/>
     </group>
   </macro>
-  <!-- 正文引用的著者姓名 -->
+  <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
   <macro name="author-intext">
     <names variable="author">
+      <name form="short" delimiter-precedes-et-al="never"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
+  <macro name="author-intext-long">
+    <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="short" delimiter="&#160;" delimiter-precedes-et-al="always">
-        <name-part name="family" text-case="uppercase"/>
-      </name>
+      <name form="long" sort-separator=" " delimiter="&#160;" delimiter-precedes-et-al="always"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -443,22 +454,12 @@
       <group delimiter=", ">
         <text macro="author-intext"/>
         <text macro="issued-year"/>
-        <group>
-          <!-- 国标要求在括号外以角标的形式著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
-          <label variable="locator" form="short"/>
-          <text variable="locator"/>
-        </group>
       </group>
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
-        <text macro="author-intext"/>
+        <text macro="author-intext-long"/>
         <text macro="issued-year"/>
-        <group>
-          <!-- 国标要求在括号外以角标的形式著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
-          <label variable="locator" form="short"/>
-          <text variable="locator"/>
-        </group>
       </group>
     </layout>
   </citation>

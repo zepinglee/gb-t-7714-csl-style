@@ -2,7 +2,6 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>China National Standard GB/T 7714-2015 (note, 中文)</title>
-    <title-short>GB/T 7714-2015 (note)</title-short>
     <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
@@ -33,10 +32,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page" form="short">
-        <single>p.</single>
-        <multiple>pp.</multiple>
-      </term>
+      <term name="page" form="short"></term>
     </terms>
   </locale>
   <locale>
@@ -409,6 +405,33 @@
       </group>
       <text macro="url-doi"/>
     </group>
+  </macro>
+  <!-- 正文中引用的文献标注格式 -->
+  <macro name="citation-layout">
+    <choose>
+      <if position="ibid-with-locator">
+        <text term="ibid"/>
+        <label variable="locator" form="short"/>
+        <text variable="locator"/>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid"/>
+      </else-if>
+      <else-if position="subsequent">
+        <!-- 国标要求提供的示例中脚注编号是用圈码，在 CSL 中无法实现 -->
+        <!-- 这里改为用冒号隔开编号和页码 -->
+        <group delimiter=": ">
+          <text variable="first-reference-note-number" prefix="同"/>
+          <group delimiter=" ">
+            <label variable="locator" form="short"/>
+            <text variable="locator"/>
+          </group>
+        </group>
+      </else-if>
+      <else>
+        <text macro="entry-layout"/>
+      </else>
+    </choose>
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">

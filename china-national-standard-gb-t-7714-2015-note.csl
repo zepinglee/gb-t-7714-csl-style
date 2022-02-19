@@ -453,21 +453,40 @@
       </else>
     </choose>
   </macro>
+  <macro name="note-layout">
+    <choose>
+      <if position="ibid-with-locator">
+        <text term="ibid"/>
+        <label variable="locator" form="short"/>
+        <text variable="locator"/>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid"/>
+      </else-if>
+      <else-if position="subsequent">
+        <!-- 国标要求提供的示例中脚注编号是用圈码，在 CSL 中无法实现 -->
+        <text variable="first-reference-note-number" prefix="同【" suffix="】: "/>
+        <label variable="locator" form="short"/>
+        <text variable="locator"/>
+      </else-if>
+      <else>
+        <text macro="entry-layout"/>
+      </else>
+    </choose>
+  </macro>
   <citation et-al-min="4" et-al-use-first="3" disambiguate-add-names="true">
-    <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
-    <!-- <layout delimiter="; " locale="en">
-      <text macro="citation-layout"/>
-    </layout> -->
+    <layout suffix="." delimiter="; " locale="en">
+      <text macro="note-layout"/>
+    </layout>
     <layout suffix="." delimiter="; ">
-      <text macro="citation-layout"/>
+      <text macro="note-layout"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
-    <!-- <layout locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>
-    </layout> -->
+    </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>

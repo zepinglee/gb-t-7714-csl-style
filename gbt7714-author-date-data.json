@@ -82,10 +82,12 @@
         "title": "数字化生存",
         "translator": [
             {
-                "literal": "胡泳"
+                "family": "胡",
+                "given": "泳"
             },
             {
-                "literal": "范海燕"
+                "family": "范",
+                "given": "海燕"
             }
         ],
         "type": "book"
@@ -93,7 +95,8 @@
     {
         "author": [
             {
-                "literal": "汪冰"
+                "family": "汪",
+                "given": "冰"
             }
         ],
         "id": "9.2:4",
@@ -114,7 +117,8 @@
     {
         "author": [
             {
-                "literal": "杨宗英"
+                "family": "杨",
+                "given": "宗英"
             }
         ],
         "container-title": "中国图书馆学报",
@@ -202,19 +206,24 @@
     {
         "author": [
             {
-                "literal": "陈晋镳"
+                "family": "陈",
+                "given": "晋镳"
             },
             {
-                "literal": "张惠民"
+                "family": "张",
+                "given": "惠民"
             },
             {
-                "literal": "朱士兴"
+                "family": "朱",
+                "given": "士兴"
             },
             {
-                "literal": "赵震"
+                "family": "赵",
+                "given": "震"
             },
             {
-                "literal": "王振刚"
+                "family": "王",
+                "given": "振刚"
             }
         ],
         "container-title": "中国震旦亚界",
@@ -287,13 +296,16 @@
     {
         "author": [
             {
-                "literal": "王临惠"
+                "family": "王",
+                "given": "临惠"
             },
             {
-                "literal": "支建刚"
+                "family": "支",
+                "given": "建刚"
             },
             {
-                "literal": "王忠一"
+                "family": "王",
+                "given": "忠一"
             }
         ],
         "container-title": "山西师范大学学报(社会科学版)",
@@ -315,13 +327,15 @@
     {
         "author": [
             {
-                "literal": "王临惠"
+                "family": "王",
+                "given": "临惠"
             }
         ],
         "container-title": "汉语方言的地理语言学研究",
         "editor": [
             {
-                "literal": "曹志耘"
+                "family": "曹",
+                "given": "志耘"
             }
         ],
         "id": "10.2.3:1b",
@@ -394,7 +408,8 @@
     {
         "author": [
             {
-                "literal": "张忠智"
+                "family": "张",
+                "given": "忠智"
             }
         ],
         "container-title": "中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编",
@@ -442,7 +457,8 @@
     {
         "author": [
             {
-                "literal": "刘彻东"
+                "family": "刘",
+                "given": "彻东"
             }
         ],
         "container-title": "中国出版",
@@ -463,7 +479,8 @@
     {
         "author": [
             {
-                "literal": "裴丽生"
+                "family": "裴",
+                "given": "丽生"
             }
         ],
         "container-title": "中国科协学术期刊编辑工作经验交流会资料选",

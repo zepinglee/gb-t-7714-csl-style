@@ -832,7 +832,6 @@
         ],
         "container-title": "人民日报",
         "id": "4.4.2:2",
-        "issue": "2",
         "issued": {
             "date-parts": [
                 [
@@ -843,6 +842,7 @@
             ]
         },
         "language": "zh-CN",
+        "page": "2",
         "title": "我们的科技一直在追赶: 访中国工程院院长周济",
         "type": "article-newspaper"
     },
@@ -3194,7 +3194,6 @@
         ],
         "container-title": "中国青年报",
         "id": "A.9:1",
-        "issue": "15",
         "issued": {
             "date-parts": [
                 [
@@ -3205,6 +3204,7 @@
             ]
         },
         "language": "zh-CN",
+        "page": "15",
         "title": "数字革命与竞争国际化",
         "type": "article-newspaper"
     },
@@ -3217,7 +3217,6 @@
         ],
         "container-title": "大众科技报",
         "id": "A.9:2",
-        "issue": "7",
         "issued": {
             "date-parts": [
                 [
@@ -3227,6 +3226,7 @@
                 ]
             ]
         },
+        "page": "7",
         "language": "zh-CN",
         "title": "罪犯 DNA 库与生命伦理学计划",
         "type": "article-newspaper"

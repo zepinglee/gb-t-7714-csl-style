@@ -42,8 +42,6 @@ generate_bibliography = function (style) {
     // result = citeproc.makeCitationCluster(items);
     // console.log(result);
 
-    citeproc.updateUncitedItems(ids);
-
     res = ""
 
     citation_file = "gbt7714-" + style + "-citation.json"
@@ -84,6 +82,9 @@ generate_bibliography = function (style) {
     // }
 
     res += "\n\n"
+
+    citeproc.updateItems([]);
+    citeproc.updateUncitedItems(ids);
 
     citeproc.setOutputFormat("text");
     bib_items = citeproc.makeBibliography()[1];

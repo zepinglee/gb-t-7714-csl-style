@@ -198,24 +198,31 @@
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
   <macro name="periodical-publishing">
     <group>
-      <group delimiter=": ">
-        <group>
-          <group delimiter=", ">
-            <text macro="container-title" text-case="title"/>
-            <choose>
-              <if type="article-newspaper">
-                <text macro="issued-date"/>
-              </if>
-              <else>
-                <text macro="issued-year"/>
-              </else>
-            </choose>
-            <text variable="volume"/>
+      <choose>
+        <if type="article-newspaper">
+          <!-- 报纸只有刊名、日期和版次（page） -->
+          <group>
+            <group delimiter=", ">
+              <text macro="container-title" text-case="title"/>
+              <text macro="issued-date"/>
+            </group>
+            <text variable="page" prefix="(" suffix=")"/>
           </group>
-          <text variable="issue" prefix="(" suffix=")"/>
-        </group>
-        <text variable="page"/>
-      </group>
+        </if>
+        <else>
+          <group delimiter=": ">
+            <group>
+              <group delimiter=", ">
+                <text macro="container-title" text-case="title"/>
+                <text macro="issued-year"/>
+                <text variable="volume"/>
+              </group>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
       <text macro="accessed-date"/>
     </group>
   </macro>
@@ -258,7 +265,7 @@
           <choose>
             <if variable="archive">
               <text value="A"/>
-            </if >
+            </if>
             <else>
               <text value="M"/>
             </else>
@@ -368,8 +375,7 @@
       <text macro="title"/>
       <text macro="year-volume-issue"/>
       <text macro="publishing"/>
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <text macro="url-doi"/>
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->

@@ -100,7 +100,7 @@
   <macro name="author-intext-long">
     <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long" sort-separator=" " delimiter="&#160;" delimiter-precedes-et-al="always"/>
+      <name form="long" delimiter="&#160;" delimiter-precedes-et-al="always"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -236,24 +236,31 @@
   </macro>
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
   <macro name="periodical-publishing">
-    <group>
-      <group delimiter=": ">
-        <group>
-          <group delimiter=", ">
-            <text macro="container-title" text-case="title"/>
-            <choose>
-              <if type="article-newspaper">
-                <text macro="issued-date"/>
-              </if>
-            </choose>
-            <text variable="volume"/>
+      <choose>
+        <if type="article-newspaper">
+          <!-- 报纸只有刊名、日期和版次（page） -->
+          <group>
+            <group delimiter=", ">
+              <text macro="container-title" text-case="title"/>
+              <text macro="issued-date"/>
+            </group>
+            <text variable="page" prefix="(" suffix=")"/>
           </group>
-          <text variable="issue" prefix="(" suffix=")"/>
-        </group>
-        <text variable="page"/>
-      </group>
+        </if>
+        <else>
+          <group delimiter=": ">
+            <group>
+              <group delimiter=", ">
+                <text macro="container-title" text-case="title"/>
+                <text variable="volume"/>
+              </group>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
       <text macro="accessed-date"/>
-    </group>
   </macro>
   <!-- 题名 -->
   <macro name="title">
@@ -294,7 +301,7 @@
           <choose>
             <if variable="archive">
               <text value="A"/>
-            </if >
+            </if>
             <else>
               <text value="M"/>
             </else>
@@ -404,8 +411,7 @@
       <text macro="title"/>
       <text macro="year-volume-issue"/>
       <text macro="publishing"/>
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <text macro="url-doi"/>
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->

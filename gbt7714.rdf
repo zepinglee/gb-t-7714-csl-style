@@ -1,0 +1,4174 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dcterms="http://purl.org/dc/terms/">
+    <bib:Book rdf:about="#item_1">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中华书局</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>登原</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>国史旧闻</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:01
+Pages: 29</dc:description>
+        <prism:volume>第 1 卷</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国人民大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>哈里森·沃尔德伦</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>谢</foaf:surname>
+                        <foaf:givenName>远涛</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>经济数学与金融数学</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:02
+Pages: 235-236</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>民族出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>北京市政协民族和宗教委员会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>北京联合大学民族与宗教研究所</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>历代王朝与民族宗教</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:03
+Pages: 112</dc:description>
+    </bib:Book>
+    <bib:Report rdf:about="#item_4">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国标准出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>全国信息与文献标准化技术委员会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>信息与文献 都柏林核心元数据元素集</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:04
+Type: standard</dc:description>
+        <bib:pages>2-3</bib:pages>
+        <prism:number>GB/T 25100—2010</prism:number>
+    </bib:Report>
+    <bib:Book rdf:about="#item_5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>科学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>徐</foaf:surname>
+                        <foaf:givenName>光宪</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>祥云</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>物质结构</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:05</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>北京古籍出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>顾</foaf:surname>
+                        <foaf:givenName>炎武</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>昌平山水记: 京东考古录</dc:title>
+        <dc:date>1992</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:06</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>金陵</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>湘乡曾国荃</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>夫之</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>宋论</dc:title>
+        <dc:date>1865(清同治四年)</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:07</dc:description>
+        <prism:edition>刻本</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="#item_8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>海洋出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>牛</foaf:surname>
+                        <foaf:givenName>志明</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>斯温兰德</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>雷</foaf:surname>
+                        <foaf:givenName>光春</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>综合湿地管理国际研讨会论文集</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:08</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>桂林</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>广西师范大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国第一历史档案馆</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>辽宁省档案馆</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>中国明朝档案总汇</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.1.2:09
+Type: collection</dc:description>
+    </bib:Book>
+    <bib:Thesis rdf:about="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国人民大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>保军</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>新闻道德论</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-11-01</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.1.2:10</dc:description>
+    </bib:Thesis>
+    <bib:Book rdf:about="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>社会科学文献出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>赵</foaf:surname>
+                        <foaf:givenName>学功</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>当代美国外交</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-11</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.1.2:11</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20120406-YPT-889-0010">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>上海</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>同济大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>同济大学土木工程防灾国家重点实验室</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>汶川地震灾害研究</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20120406-YPT-889-0010</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-05-09</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.1.2:12
+Pages: 5-6</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="http://www.cadal.zju.edu.cn/book/view/25010080">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国轻工业出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>中国造纸学会</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>中国造纸年鉴: 2003</dc:title>
+        <dc:date>2003</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cadal.zju.edu.cn/book/view/25010080</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-04-25</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.1.2:13</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_14">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>McGraw-Hill</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peebles</foaf:surname>
+                        <foaf:givenName>Peyton Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Probability, random variables, and random signal principles</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 04.1.2:14</dc:description>
+        <prism:edition>4</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="#item_15">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>A. A. Balkema</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yufin</foaf:surname>
+                        <foaf:givenName>Sergey A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 04.1.2:15
+Event Date: 2000-02-01/2000-02-04
+Event Place: Moscow, Russia
+Publisher Place: Rotterdam</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="http://lib.myilibrary.com/Open.aspx?id=312377">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rotterdam</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Open University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baldock</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Developing early childhood services: Past, present and future</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://lib.myilibrary.com/Open.aspx?id=312377</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-11-27</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.1.2:16
+Pages: 105</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ames, Iowa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Blackwell Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fan</foaf:surname>
+                        <foaf:givenName>Xuetong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sommers</foaf:surname>
+                        <foaf:givenName>Christopher H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Food irradiation research and technology</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-26</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.1.2:17
+Pages: 25-26</dc:description>
+        <prism:edition>2</prism:edition>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_18">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <prism:volume>第 6 册</prism:volume><dc:title>船山全书</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>长沙</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>岳麓书社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>夫之</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>周易外传: 卷 5</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.2.2:01</dc:description>
+        <bib:pages>1109</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_19">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>长江流域洪涝灾害与科技对策</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>科学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>程</foaf:surname>
+                        <foaf:givenName>根伟</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>许</foaf:surname>
+                        <foaf:givenName>厚泽</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>赵</foaf:surname>
+                        <foaf:givenName>其国</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>1998 年长江洪水的成因与减灾对策</dc:title>
+        <dc:date>1999</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.2.2:02</dc:description>
+        <bib:pages>32-36</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_20">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>中国震旦亚界</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>天津</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>天津科学技术出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>晋镳</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>惠民</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>朱</foaf:surname>
+                        <foaf:givenName>士兴</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>赵</foaf:surname>
+                        <foaf:givenName>震</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>振刚</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国地质科学院天津地质矿产研究所</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>蓟县震旦亚界研究</dc:title>
+        <dc:date>1980</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.2.2:03</dc:description>
+        <bib:pages>56-114</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_21">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <prism:volume>第 35 卷</prism:volume><dc:title>马克思恩格斯全集</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>人民出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>马克思</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>马克思</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>恩格斯</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>政治经济学批判</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.2.2:04</dc:description>
+        <bib:pages>302</bib:pages>
+    </bib:BookSection>
+    <rdf:Description rdf:about="#item_22">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2011 年卷</prism:volume>
+                <dc:title>中国图书馆学会年会论文集</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>国家图书馆出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>贾</foaf:surname>
+                        <foaf:givenName>东琴</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>柯</foaf:surname>
+                        <foaf:givenName>平</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>中国图书馆学会</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>面向数字素养的高校图书馆数字服务体系研究</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.2.2:05</dc:description>
+        <bib:pages>45-52</bib:pages>
+    </rdf:Description>
+    <bib:BookSection rdf:about="#item_23">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Pathologic physiology: mechanisms of disease</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Philadelphia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Saunders</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weinstein</foaf:surname>
+                        <foaf:givenName>L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Swertz</foaf:surname>
+                        <foaf:givenName>M N</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sodeman, Jr</foaf:surname>
+                        <foaf:givenName>William A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sodeman</foaf:surname>
+                        <foaf:givenName>William A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Pathogenic properties of invading microorganism</dc:title>
+        <dc:date>1974</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 04.2.2:06</dc:description>
+        <bib:pages>745-772</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="http://lib.myilibrary.com/Open.aspx?id=291430">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Water quality &amp; treatment: a handbook on drinking water</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>McGraw-Hill</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roberson</foaf:surname>
+                        <foaf:givenName>J. Alan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burneson</foaf:surname>
+                        <foaf:givenName>Eric G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>American Water Works Association</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Drinking water standards, regulations and goals</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://lib.myilibrary.com/Open.aspx?id=291430</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-12-10</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.2.2:07</dc:description>
+        <bib:pages>1.1-1.36</bib:pages>
+        <prism:edition>6</prism:edition>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_25">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>武汉</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中华医学会湖北分会</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中华医学会湖北分会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>临床内科杂志</dc:title>
+        <dc:date>1984</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.3.2:01
+Type: periodical
+Issue: 1</dc:description>
+        <prism:volume>1</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="#item_26">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>北京图书馆</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>中国图书馆学会</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>图书馆学通讯</dc:title>
+        <dc:date>1957/1990</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.3.2:02
+Type: periodical
+Issue: 1-4</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_27">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Washington, D.C.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>American Association for the Advancement of Science</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>American Association for the Advancement of Science</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Science</dc:title>
+        <dc:date>1883</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 04.3.2:03
+Type: periodical
+Issue:1</dc:description>
+        <prism:volume>1</prism:volume>
+    </bib:Book>
+    <bib:Article rdf:about="#item_28">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>57</prism:volume>
+                <dc:title>科学通报</dc:title>
+                <prism:number>34</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>袁</foaf:surname>
+                        <foaf:givenName>训来</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>哲</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>肖</foaf:surname>
+                        <foaf:givenName>书海</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.4.2:01</dc:description>
+        <bib:pages>3219</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>人民日报</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>余</foaf:surname>
+                        <foaf:givenName>建斌</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>我们的科技一直在追赶: 访中国工程院院长周济</dc:title>
+        <dc:date>2013-01-12</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-20</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.4.2:02</dc:description>
+        <bib:pages>2</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.docin.com/p-400265742.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>图书情报工作</dc:title>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>李</foaf:surname>
+                        <foaf:givenName>炳穆</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>韩国图书馆法</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.docin.com/p-400265742.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-25</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.4.2:03</dc:description>
+        <bib:pages>6-12</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.cqvip.com/Read/Read.aspx?id=36658332">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>中华移植杂志(电子版)</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>李</foaf:surname>
+                        <foaf:givenName>幼平</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>莉</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>循证医学研究方法: 附视频</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cqvip.com/Read/Read.aspx?id=36658332</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-09</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.4.2:04</dc:description>
+        <bib:pages>225-228</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>测绘科学</dc:title>
+                <dc:identifier>DOI 10.3771/j.issn.1009-2307.2008.05.002</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>武</foaf:surname>
+                        <foaf:givenName>丽丽</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>华</foaf:surname>
+                        <foaf:givenName>一新</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>亚军</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>“北斗一号”监控管理网设计与实现</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2009-10-25</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.4.2:05</dc:description>
+        <bib:pages>8-9</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_33">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>279</prism:volume>
+                <dc:title>Science</dc:title>
+                <prism:number>5359</prism:number>
+                <dcterms:alternative>Science</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kanamori</foaf:surname>
+                        <foaf:givenName>H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Shaking without quaking</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 04.4.2:06</dc:description>
+        <bib:pages>2063</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_34">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>The public access computer systems review</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caplan</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Cataloging internet resources</dc:title>
+        <dc:date>1993</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 04.4.2:07</dc:description>
+        <bib:pages>61-66</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.mdpi.com/2079-7737/2/1/378">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <dc:title>Biology</dc:title>
+                <dc:identifier>DOI 10.3390/biology2010378</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frese</foaf:surname>
+                        <foaf:givenName>Karen S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katus</foaf:surname>
+                        <foaf:givenName>Hugo A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meder</foaf:surname>
+                        <foaf:givenName>Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Next-generation sequencing: from understanding biology to personalized medicine</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.mdpi.com/2079-7737/2/1/378</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-19</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.4.2:08</dc:description>
+        <bib:pages>378-398</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>510</prism:volume>
+                <dc:title>Nature</dc:title>
+                <dc:identifier>DOI 10.1038/nature13308</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Myburg</foaf:surname>
+                        <foaf:givenName>Alexander A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grattapaglia</foaf:surname>
+                        <foaf:givenName>Dario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tuskan</foaf:surname>
+                        <foaf:givenName>Gerald A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The genome of eucalyptus grandis</dc:title>
+        <dc:date>2014-06-19</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-25</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.4.2:09</dc:description>
+        <bib:pages>356-362</bib:pages>
+    </bib:Article>
+    <bib:Patent rdf:about="#item_37">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>邓</foaf:surname>
+                        <foaf:givenName>一刚</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:title>全智能节电器</dc:title>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 04.5.2:01</dc:description>
+        <prism:number>200610171314.3</prism:number>
+        <dc:date>2006-12-13</dc:date>
+    </bib:Patent>
+    <bib:Patent rdf:about="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&amp;leixin=0">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>西安电子科技大学</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:title>光折变自适应光外差探测方法</dc:title>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&amp;leixin=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2002-05-28</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.5.2:02</dc:description>
+        <prism:number>01128777.2</prism:number>
+        <dc:date>2002-03-06</dc:date>
+    </bib:Patent>
+    <bib:Patent rdf:about="http://www.google.co.in/patents/US6915001">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tachibana</foaf:surname>
+                        <foaf:givenName>Ryuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shimizu</foaf:surname>
+                        <foaf:givenName>Shuhichi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kobayshi</foaf:surname>
+                        <foaf:givenName>Seiji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakamura</foaf:surname>
+                        <foaf:givenName>Taiga</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:title>Electronic watermarking method and system</dc:title>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.google.co.in/patents/US6915001</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-11-11</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.5.2:03</dc:description>
+        <prism:number>US6915001</prism:number>
+        <dc:date>2005-07-05</dc:date>
+    </bib:Patent>
+    <bib:Report rdf:about="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国互联网络信息中心</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>第 29 次中国互联网络发展现状统计报告</dc:title>
+        <dc:date>2012-01-16</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-26</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.6.2:01</dc:description>
+    </bib:Report>
+    <bib:Legislation rdf:about="http://china.findlaw.cn/fagui/p_1/39934.html">
+        <z:itemType>statute</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>北京市人民政府办公厅</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://china.findlaw.cn/fagui/p_1/39934.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2011-07-12</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.6.2:02</dc:description>
+        <dc:title>关于转发北京市企业投资项目核准暂行实施办法的通知</dc:title>
+        <prism:number>京政办发[2005]37号</prism:number>
+        <dc:date>2005-07-12</dc:date>
+    </bib:Legislation>
+    <bib:Document rdf:about="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bawden</foaf:surname>
+                        <foaf:givenName>D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Origins and concepts of digital literacy</dc:title>
+        <dc:date>2008-05-04</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-08</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.6.2:03</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.oclc.org/about/cooperation.en.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Online Computer Library Center, Inc</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>About OCLC: History of cooperation</dc:title>
+        <dc:date>2012-03-27</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.oclc.org/about/cooperation.en.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-03-27</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.6.2:04</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://archive.ifla.org/IV/ifla64/138-161e.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hopkinson</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>UNIMARC and metadata: Dublin core</dc:title>
+        <dc:date>2009-04-22</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archive.ifla.org/IV/ifla64/138-161e.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-27</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 04.6.2:05</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="#item_45">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>283</prism:volume>
+                <dc:title>British medical journal</dc:title>
+                <prism:number>6292</prism:number>
+                <dcterms:alternative>Br Med J</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Coffee drinking and cancer of the pancreas</dc:title>
+        <dc:date>1981</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 08.1.03</dc:description>
+        <bib:pages>628</bib:pages>
+    </bib:Article>
+    <bib:Thesis rdf:about="http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>合肥</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国科学技术大学</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>乃安</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>生物质材料热解失重动力学及其分析方法研究</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-08-29</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 08.7:01
+DOI: 10.7666/d.y351065
+Pages: 17-18</dc:description>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036.ch2/summary">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>John Wiley &amp; Sons</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deverell</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Igler</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A companion to California history</dc:title>
+        <dc:date>2013-11-15</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/9781444305036.ch2/summary</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-24</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 08.7:02
+DOI: 10.1002/9781444305036.ch2
+Pages: 21-22</dc:description>
+    </bib:Thesis>
+    <bib:Book rdf:about="#item_48">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>The Haworth Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenName>S K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>M E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The future of resource sharing</dc:title>
+        <dc:date>1995</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 09.1:01</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_49">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Littleton, Colo.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Libraries Unlimited, Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chernik</foaf:surname>
+                        <foaf:givenName>B E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Introduction to library services for library technicians</dc:title>
+        <dc:date>1982</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 09.1:02</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_50">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>海口</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>海南出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>尼葛洛庞帝</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>胡</foaf:surname>
+                        <foaf:givenName>泳</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>范</foaf:surname>
+                        <foaf:givenName>海燕</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>数字化生存</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 09.1:03</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_51">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>北京图书馆出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>汪</foaf:surname>
+                        <foaf:givenName>冰</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>电子图书馆理论与实践研究</dc:title>
+        <dc:date>1997</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 09.1:04
+Pages: 16</dc:description>
+    </bib:Book>
+    <bib:Article rdf:about="#item_52">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>中国图书馆学报</dc:title><prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>宗英</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>电子图书馆的现实模型</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 09.1:05</dc:description>
+        <bib:pages>24-29</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_53">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>21</prism:volume>
+                <dc:title>Journal of library administration</dc:title>
+                <prism:number>1/2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dowler</foaf:surname>
+                        <foaf:givenName>L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The research university’s dilemma: Resource sharing and research in a transinstitutional environment</dc:title>
+        <dc:date>1995</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 09.1:06</dc:description>
+        <bib:pages>5-26</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&amp;id=913&amp;collection=journals&amp;index=journals/clr">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>96</prism:volume>
+                <dc:title>Columbia law review</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sunstein</foaf:surname>
+                        <foaf:givenName>Cass R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Social norms and social roles</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&amp;id=913&amp;collection=journals&amp;index=journals/clr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-01-26</dcterms:dateSubmitted>
+        <dc:description>Citation Key: 10.1.3:01</dc:description>
+        <bib:pages>903</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_55">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Farrar, Straus and Giroux</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morri</foaf:surname>
+                        <foaf:givenName>I</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Why the west rules for now: the patterns of history, and what they reveal about the future</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 10.1.3:02</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_56">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>大连</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>东北财经大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>罗杰斯</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>潘</foaf:surname>
+                        <foaf:givenName>惠霞</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>魏</foaf:surname>
+                        <foaf:givenName>婧</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>艳</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>汤</foaf:surname>
+                        <foaf:givenName>玲</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>西方文明史: 问题与源头</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.1.3:03
+Pages: 15-16</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_57">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Univ. of Chicago Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crane</foaf:surname>
+                        <foaf:givenName>Diana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Invisible college</dc:title>
+        <dc:date>1972</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 10.2.1:01</dc:description>
+    </bib:Book>
+    <bib:Article rdf:about="#item_58">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>42</prism:volume>
+                <dc:title>College and research libraries</dc:title>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stieg</foaf:surname>
+                        <foaf:givenName>Margaret F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The information needs of historians</dc:title>
+        <dc:date>1981</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 10.2.1:02</dc:description>
+        <bib:pages>549-560</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_59">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>37</prism:volume>
+                <dc:title>山西师范大学学报(社会科学版)</dc:title>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>临惠</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>支</foaf:surname>
+                        <foaf:givenName>建刚</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>忠一</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>天津方言的源流关系刍议</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.2.3:01a</dc:description>
+        <bib:pages>147</bib:pages>
+    </bib:Article>
+    <rdf:Description rdf:about="#item_60">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>汉语方言的地理语言学研究</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>商务印书馆</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>临惠</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>曹</foaf:surname>
+                        <foaf:givenName>志耘</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>从几组声母的演变看天津方言形成的自然条件和历史条件</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.2.3:01b</dc:description>
+        <bib:pages>138</bib:pages>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_61">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>22</prism:volume><dc:title>Sedimentology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kennedy</foaf:surname>
+                        <foaf:givenName>W L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garrison</foaf:surname>
+                        <foaf:givenName>R E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England</dc:title>
+        <dc:date>1975</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 10.2.3:02a</dc:description>
+        <bib:pages>311</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_62">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>8</prism:volume><dc:title>Lethaia</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kennedy</foaf:surname>
+                        <foaf:givenName>W L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garrison</foaf:surname>
+                        <foaf:givenName>R E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Morphology and genesis of nodular phosphates in the cenomanian of South-east England</dc:title>
+        <dc:date>1975</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: 10.2.3:02b</dc:description>
+        <bib:pages>339</bib:pages>
+    </bib:Article>
+    <rdf:Description rdf:about="#item_63">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国科学技术期刊编辑学会学术委员会</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>忠智</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国科学技术期刊编辑学会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>科技书刊的总编(主编)的角色要求</dc:title>
+        <dc:date>1997</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.2.4:01</dc:description>
+        <bib:pages>33-34</bib:pages>
+    </rdf:Description>
+    <bib:Book rdf:about="#item_64">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>商务印书馆</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国社会科学院语言研究所词典编辑室</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>现代汉语词典</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.2.4:02</dc:description>
+        <prism:edition>修订本</prism:edition>
+    </bib:Book>
+    <bib:Article rdf:about="#item_65">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>中国出版</dc:title><prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>彻东</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>中国的青年刊物: 个性特色为本仁</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.2.4:03</dc:description>
+        <bib:pages>38-39</bib:pages>
+    </bib:Article>
+    <rdf:Description rdf:about="#item_66">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>中国科协学术期刊编辑工作经验交流会资料选</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国科学技术协会学会工作部</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>裴</foaf:surname>
+                        <foaf:givenName>丽生</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国科学技术协会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>在中国科协学术期刊编辑工作经验交流会上的讲话</dc:title>
+        <dc:date>1981</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.2.4:04</dc:description>
+        <bib:pages>2-10</bib:pages>
+    </rdf:Description>
+    <bib:Book rdf:about="#item_67">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中华书局</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>登原</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>国史旧闻</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.1.3:04
+Pages: 29</dc:description>
+        <prism:volume>第 1 卷</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="#item_68">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>南京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>江苏古籍出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>伯伟</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>全唐五代诗格汇考</dc:title>
+        <dc:date>2002</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:01
+Pages: 288</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_69">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>北京图书馆出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>皮</foaf:surname>
+                        <foaf:givenName>锡瑞</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>师伏堂日记</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:02
+Pages: 155</dc:description>
+        <prism:volume>第 4 册</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="#item_70">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>武汉</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>武汉大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>胡</foaf:surname>
+                        <foaf:givenName>承正</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>周</foaf:surname>
+                        <foaf:givenName>详</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>缪</foaf:surname>
+                        <foaf:givenName>灵</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>理论物理概论</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:03
+Pages: 112</dc:description>
+        <prism:volume>上</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="#item_71">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>人民卫生出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>美国妇产科医师学会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>段</foaf:surname>
+                        <foaf:givenName>涛</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>慧霞</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>新生儿脑病和脑性瘫痪发病机制与病理生理</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:04
+Pages: 38-39</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_72">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中华书局</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>康熙字典: 巳集上: 水部</dc:title>
+        <dc:date>1962</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:05
+Pages: 50</dc:description>
+        <prism:edition>同文书局影印本</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="#item_73">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>京都</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>老二酉堂</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>汪</foaf:surname>
+                        <foaf:givenName>昂</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>增订本草备要</dc:title>
+        <dc:date>1881</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:06</dc:description>
+        <prism:volume>四卷</prism:volume>
+        <prism:edition>刻本</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="#item_74">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>科学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>蒋</foaf:surname>
+                        <foaf:givenName>有绪</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>郭</foaf:surname>
+                        <foaf:givenName>泉水</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>马</foaf:surname>
+                        <foaf:givenName>娟</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>中国森林群落分类及其群落特征</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:07</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_75">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>九州出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国企业投资协会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>台湾并购与私募股权协会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>汇盈国际投资集团</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>投资台湾: 大陆企业赴台投资指南</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:08</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_76">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>杭州</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>浙江大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>罗斯基</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>唐</foaf:surname>
+                        <foaf:givenName>巧天</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>毛</foaf:surname>
+                        <foaf:givenName>立坤</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>姜</foaf:surname>
+                        <foaf:givenName>修宪</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>战前中国经济的增长</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:09</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_77">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>北京大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>库恩</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>金</foaf:surname>
+                        <foaf:givenName>吾伦</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>胡</foaf:surname>
+                        <foaf:givenName>新和</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>科学革命的结构: 第 4 版</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.01:10</dc:description>
+        <prism:edition>2</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20111114-HGS-889-0228">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>化学工业出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>侯</foaf:surname>
+                        <foaf:givenName>文顺</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>高分子物理: 高分子材料分析、选择与改性</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20111114-HGS-889-0228</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-11-27</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.01:11
+Pages: 119</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_79">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>American Library Association</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crawford</foaf:surname>
+                        <foaf:givenName>W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gorman</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Future libraries: Dreams, madness, &amp; reality</dc:title>
+        <dc:date>1995</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.01:12</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_80">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IFLA International Office for UBC</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>International Federation of Library Association and Institutions</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Names of persons: National usages for entry in catalogues</dc:title>
+        <dc:date>1977</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.01:13</dc:description>
+        <prism:edition>3</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="#item_81">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Burr Ridge, III</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Irwin</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O’Brien</foaf:surname>
+                        <foaf:givenName>J A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Introduction to information systems</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.01:14</dc:description>
+        <prism:edition>7</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="http://lib.myilibrary.com?ID=381443">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge, Mass.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>MIT Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kinchy</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Seeds, sciences, and struggle: the global politics of transgenic crops</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://lib.myilibrary.com?ID=381443</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-07-14</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.01:15
+Pages: 50</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="http://lib.myilibrary.com/Open.aspx?id=293666">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Rowman &amp; Littlefield Publishing Group, Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Praetzellis</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Death by theory: a tale of mystery and archaeological theory</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://lib.myilibrary.com/Open.aspx?id=293666</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2012-07-26</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.01:16
+Pages: 13</dc:description>
+        <prism:edition>Rev. ed.</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="#item_84">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>人民教育出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国职工教育研究会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>职工教育研究论文集</dc:title>
+        <dc:date>1985</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.02:01</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_85">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>九州出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中国社会科学院台湾史研究中心</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>台湾光复六十五周年暨抗战史实学术研讨会论文集</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.02:02</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_86">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>海洋出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>雷</foaf:surname>
+                        <foaf:givenName>光春</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>综合湿地管理: 综合湿地管理国际研讨会论文集</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.02:03</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.201106228-BPO-889-0135&amp;cult=CN">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>经济科学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>志勇</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.201106228-BPO-889-0135&amp;cult=CN</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-14</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.02:04</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_88">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Babu</foaf:surname>
+                        <foaf:givenName>B V</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nagar</foaf:surname>
+                        <foaf:givenName>A K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deep</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Proceedings of the Second International Conference on Soft Computing for Problem Solving</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.02:05
+Event Date: 2012-12-28/2012-12-30
+Publisher Place: New Delhi</dc:description>
+    </bib:Book>
+    <bib:Report rdf:about="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>中华人民共和国国务院新闻办公室</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>国防白皮书: 中国武装力量的多样化运用</dc:title>
+        <dc:date>2013-04-16</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-11</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.03:01</dc:description>
+    </bib:Report>
+    <bib:Report rdf:about="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>汤</foaf:surname>
+                        <foaf:givenName>万金</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>跃翔</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>文</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>人体安全重要技术标准研制最终报告</dc:title>
+        <dc:date>2013-09-30</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-24</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.03:02</dc:description>
+        <prism:number>7178999X-2006BAK04A10/10.2013</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="#item_91">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calkin</foaf:surname>
+                        <foaf:givenName>D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ager</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thompson</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.03:03</dc:description>
+        <bib:pages>8-9</bib:pages>
+        <prism:number>RMRS-GTR-262</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="#item_92">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Springfield</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>U.S. Department of Commerce National Information Service</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>U.S. Department of Transportation Federal Highway Administration</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Guidelines for handling excavated acid-producing material</dc:title>
+        <dc:date>1990</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.03:04</dc:description>
+        <prism:number>PB 91-194001</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="#item_93">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Geneva</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>WHO</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>World Health Organization</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Factors regulating the immune response: Report of WHO Scientific Group</dc:title>
+        <dc:date>1970</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.03:05</dc:description>
+    </bib:Report>
+    <bib:Thesis rdf:about="http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&amp;QueryID=.0&amp;CurRec=11&amp;dbname=CDFDLAST2013&amp;filename=1012035905.nh&amp;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>清华大学</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>马</foaf:surname>
+                        <foaf:givenName>欢</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>人类活动影响下海河流域典型区水循环变化分析</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&amp;QueryID=.0&amp;CurRec=11&amp;dbname=CDFDLAST2013&amp;filename=1012035905.nh&amp;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-14</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.04:01
+Pages: 27</dc:description>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="http://thesis.lib.pku.edu.cn/dlib/List.asp?lang=gb&amp;type=Reader&amp;DocGroupID=4&amp;DocID=6328">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>北京大学</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>吴</foaf:surname>
+                        <foaf:givenName>云芳</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>面向中文信息处理的现代汉语并列结构研究</dc:title>
+        <dc:date>2003</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://thesis.lib.pku.edu.cn/dlib/List.asp?lang=gb&amp;type=Reader&amp;DocGroupID=4&amp;DocID=6328</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-14</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.04:02</dc:description>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_96">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Univ. of California</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calms</foaf:surname>
+                        <foaf:givenName>R B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Infrared spectroscopic studies on solid oxygen</dc:title>
+        <dc:date>1965</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.04:03</dc:description>
+    </bib:Thesis>
+    <bib:Patent rdf:about="#item_97">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>凯军</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:title>轨道火车及高速轨道火车紧急安全制动辅助装置</dc:title>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.05:01</dc:description>
+        <prism:number>201220158825.2</prism:number>
+        <dc:date>2012-04-05</dc:date>
+    </bib:Patent>
+    <bib:Patent rdf:about="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&amp;leixin=0">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>河北绿洲生态环境科技有限公司</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:title>一种荒漠化地区生态植被综合培育种植方法</dc:title>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&amp;leixin=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2002-05-28</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.05:02</dc:description>
+        <prism:number>01129210.5</prism:number>
+        <dc:date>2001-10-24</dc:date>
+    </bib:Patent>
+    <bib:Patent rdf:about="http://FF&amp;p=1&amp;u=netahtml/PTO/search-bool.html&amp;r=5&amp;f=G&amp;1=50&amp;col=AND&amp;d=PG01&amp;sl=IBM.AS.&amp;OS=AN/IBM/RS=AN/IBM">
+        <z:itemType>patent</z:itemType>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koseki</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Momose</foaf:surname>
+                        <foaf:givenName>H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kawahito</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:title>Compiler</dc:title>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://FF&amp;p=1&amp;u=netahtml/PTO/search-bool.html&amp;r=5&amp;f=G&amp;1=50&amp;col=AND&amp;d=PG01&amp;sl=IBM.AS.&amp;OS=AN/IBM/RS=AN/IBM</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2002-05-28</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.05:03</dc:description>
+        <prism:number>US828402</prism:number>
+        <dc:date>2002-05-25</dc:date>
+    </bib:Patent>
+    <bib:Report rdf:about="#item_100">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国标准出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>全国信息与文献标准化技术委员会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>文献著录: 第 4 部分 非书资料</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.06:01
+Type: standard</dc:description>
+        <bib:pages>3</bib:pages>
+        <prism:number>GB/T 3792.4—2009</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="#item_101">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>国家广播电影电视总局广播电视规划院</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>全国广播电视标准化技术委员会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>广播电视音像资料编目规范: 第 2 部分 广播资料</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.06:02
+Type: standard</dc:description>
+        <bib:pages>1</bib:pages>
+        <prism:number>GY/T 202.2—2007</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国标准出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>国家环境保护局科技标准司</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>土壤环境质量标准</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-14</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.06:03
+Type: standard</dc:description>
+        <bib:pages>2-3</bib:pages>
+        <prism:number>GB 15616—1995</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">
+        <z:itemType>report</z:itemType>
+        <dc:title>Information and documentation—The Dublin core metadata element set</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-24</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.06:04
+Type: standard</dc:description>
+        <prism:number>ISO 15836:2009</prism:number>
+    </bib:Report>
+    <bib:BookSection rdf:about="#item_104">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <prism:volume>下册</prism:volume><dc:title>苏魏公文集</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中华书局</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>卷 39 乞致仕第一</dc:title>
+        <dc:date>1988</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.07:01</dc:description>
+        <bib:pages>590</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_105">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>植物科学进展</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>高等教育出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>白</foaf:surname>
+                        <foaf:givenName>书农</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>李</foaf:surname>
+                        <foaf:givenName>承森</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>植物开花研究</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.07:02</dc:description>
+        <bib:pages>146-163</bib:pages>
+    </bib:BookSection>
+    <rdf:Description rdf:about="#item_106">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>中国国家生物安全框架实施国际合作项目研讨会论文集</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国环境科学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>汪</foaf:surname>
+                        <foaf:givenName>学军</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>国家环境保护总局生物安全管理办公室</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>中国农业转基因生物研究进展与安全管理</dc:title>
+        <dc:date>2002</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.07:03</dc:description>
+        <bib:pages>22-25</bib:pages>
+    </rdf:Description>
+    <bib:BookSection rdf:about="#item_107">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>文献工作国家标准汇编: 3</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中国标准出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>国家标准局信息分类编码研究所</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>全国文献工作标准化委员会</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>世界各国和地区名称代码: GB/T 2659—1986</dc:title>
+        <dc:date>1988</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.07:04
+Type: standard</dc:description>
+        <bib:pages>59-92</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_108">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <prism:volume>第 1 册</prism:volume><dc:title>宋史</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中华书局</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>宋史卷三: 本纪第三</dc:title>
+        <dc:date>1977</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.07:05</dc:description>
+        <bib:pages>49</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_109">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>汶川地震震害研究</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>上海</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>同济大学出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>楼</foaf:surname>
+                        <foaf:givenName>梦鳞</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>燕</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>同济大学土木工程防灾国家重点实验室</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>汶川地震基岩地震动特征分析</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20120406-YPT-889-0010</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-05-09</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.07:06</dc:description>
+        <bib:pages>011-012</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_110">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Pyroxense</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Washington, D.C.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Mineralogical Society of America</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buseck</foaf:surname>
+                        <foaf:givenName>P R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nord</foaf:surname>
+                        <foaf:givenName>G L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Veblen</foaf:surname>
+                        <foaf:givenName>D R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Subsolidus phenomena in pyroxenes</dc:title>
+        <dc:date>c1980</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.07:07</dc:description>
+        <bib:pages>117-211</bib:pages>
+    </bib:BookSection>
+    <rdf:Description rdf:about="#item_111">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Symposium on Applications of Holography in Mechanics</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>ASME</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fourney</foaf:surname>
+                        <foaf:givenName>M E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Advances in holographic photoelasticity</dc:title>
+        <dc:date>c1971</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.07:08
+Event Date: 1971-08-23/1971-08-25
+Event Place: University of Southern California, Los Angeles, California
+Publisher Place: New York</dc:description>
+        <bib:pages>17-38</bib:pages>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_112">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>文献</dc:title><prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>洪升</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>四库馆私家抄校书考略</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.08:01</dc:description>
+        <bib:pages>56-75</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_113">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>图书情报工作</dc:title>
+                <prism:number>6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>李</foaf:surname>
+                        <foaf:givenName>炳穆</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>韩国图书馆法</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.08:02</dc:description>
+        <bib:pages>6-21</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_114">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>清华大学学报(自然科学版)</dc:title>
+                <prism:number>11</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>于</foaf:surname>
+                        <foaf:givenName>潇</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>义</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>柴</foaf:surname>
+                        <foaf:givenName>跃廷</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>互联网药品可信交易环境中主体资质审核备案模式</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.08:03</dc:description>
+        <bib:pages>1518-1523</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>国土资源导刊</dc:title>
+                <dc:identifier>DOI 10.3969/j.issn.1672-5603.2010.10.038</dc:identifier>
+                <prism:number>10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>建军</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>从数字地球到智慧地球</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-20</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.08:04</dc:description>
+        <bib:pages>93</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_116">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>359</prism:volume><dc:title>Nature</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Des Marais</foaf:surname>
+                        <foaf:givenName>David J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Strauss</foaf:surname>
+                        <foaf:givenName>H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Summons</foaf:surname>
+                        <foaf:givenName>R E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Carbon isotope evidence for the stepwise oxidation of the proterozoic environment</dc:title>
+        <dc:date>1992</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.08:05</dc:description>
+        <bib:pages>605-609</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_117">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>57</prism:volume>
+                <dc:title>Bulletin of the geological survey of Japan</dc:title>
+                <prism:number>5/6</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saito</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miyazaki</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>en-US</z:language>
+        <dc:description>Citation Key: A.08:06</dc:description>
+        <bib:pages>169-176</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.mdpi.com/2079-7737/2/1/399">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <dc:title>Biology</dc:title>
+                <dc:identifier>DOI 10.3390/biology2010399</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walls</foaf:surname>
+                        <foaf:givenName>Susan C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barichivich</foaf:surname>
+                        <foaf:givenName>William J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Mary E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.mdpi.com/2079-7737/2/1/399</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-11-04</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.08:07</dc:description>
+        <bib:pages>399-418</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://pubs.acs.org/doi/ipdf/10.1021/cb300573r">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>ACS Chemical biology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Franz</foaf:surname>
+                        <foaf:givenName>Annaliese K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Danielewicz</foaf:surname>
+                        <foaf:givenName>Megan A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wong</foaf:surname>
+                        <foaf:givenName>Diana M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>Lisa A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boothe</foaf:surname>
+                        <foaf:givenName>Jordan R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pubs.acs.org/doi/ipdf/10.1021/cb300573r</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-26</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.08:08</dc:description>
+        <bib:pages>1053-1062</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>48</prism:volume>
+                <dc:title>Cataloging &amp; classification quarterly</dc:title>
+                <prism:number>8</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Jung-Ran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tosaka</foaf:surname>
+                        <foaf:givenName>Yuji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-09-05</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.08:09</dc:description>
+        <bib:pages>696-715</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_121">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>中国青年报</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>丁</foaf:surname>
+                        <foaf:givenName>文详</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>数字革命与竞争国际化</dc:title>
+        <dc:date>2000-11-20</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.09:01</dc:description>
+        <bib:pages>15</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_122">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>大众科技报</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>田勤</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>罪犯 DNA 库与生命伦理学计划</dc:title>
+        <dc:date>2000-11-12</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: A.09:02</dc:description>
+        <bib:pages>7</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>北京青年报</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>傅</foaf:surname>
+                        <foaf:givenName>刚</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>赵</foaf:surname>
+                        <foaf:givenName>承</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>李</foaf:surname>
+                        <foaf:givenName>佳路</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>大风沙过后的思考</dc:title>
+        <dc:date>2000-01-12</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2005-09-28</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.09:03</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>人民日报</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>裕国</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>杨</foaf:surname>
+                        <foaf:givenName>柳</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>洋</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>雾霾来袭, 如何突围?</dc:title>
+        <dc:date>2013-01-12</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-11-06</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.09:04</dc:description>
+    </bib:Article>
+    <bib:Document rdf:about="http://www.creader.com/news/20011219/200112190019.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>萧</foaf:surname>
+                        <foaf:givenName>钰</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>出版业信息化迈入快车道</dc:title>
+        <dc:date>2001-12-19</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.creader.com/news/20011219/200112190019.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2002-04-15</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.10:01</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>李</foaf:surname>
+                        <foaf:givenName>强</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>化解医患矛盾需釜底抽薪</dc:title>
+        <dc:date>2012-05-03</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-25</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.10:02</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Pennsylvania library laws</dc:title>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-03-24</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.10:03</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://dublincore.org/documents/dces/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Dublin core metadata element set: version 1.1</dc:title>
+        <dc:date>2012-06-14</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dublincore.org/documents/dces/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-06-11</dcterms:dateSubmitted>
+        <dc:description>Citation Key: A.10:04</dc:description>
+    </bib:Document>
+</rdf:RDF>

@@ -1,22 +1,26 @@
 [
     {
-        "container-title": "Br Med J",
-        "id": "8.1.3",
+        "id": "08.1.03",
+        "type": "article-journal",
+        "citation-key": "08.1.03",
+        "container-title": "British medical journal",
         "issue": "6292",
         "issued": {
             "date-parts": [
                 [
-                    1981
+                    "1981"
                 ]
             ]
         },
-        "language": "en",
+        "journalAbbreviation": "Br Med J",
+        "language": "en-US",
         "page": "628",
         "title": "Coffee drinking and cancer of the pancreas",
-        "type": "article-journal",
         "volume": "283"
     },
     {
+        "id": "09.1:01",
+        "type": "book",
         "author": [
             {
                 "family": "Baker",
@@ -27,52 +31,57 @@
                 "given": "M E"
             }
         ],
-        "id": "9.2:1",
+        "citation-key": "09.1:01",
+        "event-place": "New York",
         "issued": {
             "date-parts": [
                 [
-                    1995
+                    "1995"
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "publisher": "The Haworth Press",
         "publisher-place": "New York",
-        "title": "The future of resource sharing",
-        "type": "book"
+        "title": "The future of resource sharing"
     },
     {
+        "id": "09.1:02",
+        "type": "book",
         "author": [
             {
                 "family": "Chernik",
                 "given": "B E"
             }
         ],
-        "id": "9.2:2",
+        "citation-key": "09.1:02",
+        "event-place": "Littleton, Colo.",
         "issued": {
             "date-parts": [
                 [
-                    1982
+                    "1982"
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "publisher": "Libraries Unlimited, Inc.",
         "publisher-place": "Littleton, Colo.",
-        "title": "Introduction to library services for library technicians",
-        "type": "book"
+        "title": "Introduction to library services for library technicians"
     },
     {
+        "id": "09.1:03",
+        "type": "book",
         "author": [
             {
                 "literal": "尼葛洛庞帝"
             }
         ],
-        "id": "9.2:3",
+        "citation-key": "09.1:03",
+        "event-place": "海口",
         "issued": {
             "date-parts": [
                 [
-                    1996
+                    "1996"
                 ]
             ]
         },
@@ -89,121 +98,129 @@
                 "family": "范",
                 "given": "海燕"
             }
-        ],
-        "type": "book"
+        ]
     },
     {
+        "id": "09.1:04",
+        "type": "book",
         "author": [
             {
                 "family": "汪",
                 "given": "冰"
             }
         ],
-        "id": "9.2:4",
+        "citation-key": "09.1:04",
+        "event-place": "北京",
         "issued": {
             "date-parts": [
                 [
-                    1997
+                    "1997"
                 ]
             ]
         },
         "language": "zh-CN",
-        "page": "16",
+        "note": "page: 16",
         "publisher": "北京图书馆出版社",
         "publisher-place": "北京",
-        "title": "电子图书馆理论与实践研究",
-        "type": "book"
+        "title": "电子图书馆理论与实践研究"
     },
     {
+        "id": "09.1:05",
+        "type": "article-journal",
         "author": [
             {
                 "family": "杨",
                 "given": "宗英"
             }
         ],
+        "citation-key": "09.1:05",
         "container-title": "中国图书馆学报",
-        "id": "9.2:5",
         "issue": "2",
         "issued": {
             "date-parts": [
                 [
-                    1996
+                    "1996"
                 ]
             ]
         },
         "language": "zh-CN",
         "page": "24-29",
-        "title": "电子图书馆的现实模型",
-        "type": "article-journal"
+        "title": "电子图书馆的现实模型"
     },
     {
+        "id": "09.1:06",
+        "type": "article-journal",
         "author": [
             {
                 "family": "Dowler",
                 "given": "L"
             }
         ],
+        "citation-key": "09.1:06",
         "container-title": "Journal of library administration",
-        "id": "9.2:6",
         "issue": "1/2",
         "issued": {
             "date-parts": [
                 [
-                    1995
+                    "1995"
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "page": "5-26",
         "title": "The research university’s dilemma: Resource sharing and research in a transinstitutional environment",
-        "type": "article-journal",
         "volume": "21"
     },
     {
+        "id": "10.2.1:01",
+        "type": "book",
         "author": [
             {
                 "family": "Crane",
                 "given": "Diana"
             }
         ],
-        "id": "10.2.1:1",
+        "citation-key": "10.2.1:01",
+        "event-place": "Chicago",
         "issued": {
             "date-parts": [
                 [
-                    1972
+                    "1972"
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "publisher": "Univ. of Chicago Press",
         "publisher-place": "Chicago",
-        "title": "Invisible college",
-        "type": "book"
+        "title": "Invisible college"
     },
     {
+        "id": "10.2.1:02",
+        "type": "article-journal",
         "author": [
             {
                 "family": "Stieg",
-                "given": "M F"
+                "given": "Margaret F"
             }
         ],
+        "citation-key": "10.2.1:02",
         "container-title": "College and research libraries",
-        "id": "10.2.1:2",
         "issue": "6",
         "issued": {
             "date-parts": [
                 [
-                    1981
+                    "1981"
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "page": "549-560",
         "title": "The information needs of historians",
-        "type": "article-journal",
         "volume": "42"
     },
     {
+        "id": "10.2.2:01",
+        "type": "chapter",
         "author": [
             {
                 "family": "陈",
@@ -226,17 +243,18 @@
                 "given": "振刚"
             }
         ],
+        "citation-key": "10.2.2:01",
         "container-title": "中国震旦亚界",
         "editor": [
             {
                 "literal": "中国地质科学院天津地质矿产研究所"
             }
         ],
-        "id": "10.2.2:1",
+        "event-place": "天津",
         "issued": {
             "date-parts": [
                 [
-                    1980
+                    "1980"
                 ]
             ]
         },
@@ -244,16 +262,15 @@
         "page": "56-114",
         "publisher": "天津科学技术出版社",
         "publisher-place": "天津",
-        "title": "蓟县震旦亚界研究",
-        "type": "chapter"
+        "title": "蓟县震旦亚界研究"
     },
     {
-        "DOI": "10.1038/nature13308",
-        "URL": "http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf",
+        "id": "10.2.2:02",
+        "type": "article-journal",
         "accessed": {
             "date-parts": [
                 [
-                    2014,
+                    "2014",
                     6,
                     25
                 ]
@@ -273,27 +290,30 @@
                 "given": "Gerald A."
             },
             {
-                "family": "others"
+                "literal": "others"
             }
         ],
+        "citation-key": "10.2.2:02",
         "container-title": "Nature",
-        "id": "10.2.2:2",
+        "DOI": "10.1038/nature13308",
         "issued": {
             "date-parts": [
                 [
-                    2014,
+                    "2014",
                     6,
                     19
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "page": "356-362",
         "title": "The genome of eucalyptus grandis",
-        "type": "article-journal",
+        "URL": "http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf",
         "volume": "510"
     },
     {
+        "id": "10.2.3:01a",
+        "type": "article-journal",
         "author": [
             {
                 "family": "王",
@@ -308,29 +328,31 @@
                 "given": "忠一"
             }
         ],
+        "citation-key": "10.2.3:01a",
         "container-title": "山西师范大学学报(社会科学版)",
-        "id": "10.2.3:1a",
         "issue": "4",
         "issued": {
             "date-parts": [
                 [
-                    2010
+                    "2010"
                 ]
             ]
         },
         "language": "zh-CN",
         "page": "147",
         "title": "天津方言的源流关系刍议",
-        "type": "article-journal",
         "volume": "37"
     },
     {
+        "id": "10.2.3:01b",
+        "type": "paper-conference",
         "author": [
             {
                 "family": "王",
                 "given": "临惠"
             }
         ],
+        "citation-key": "10.2.3:01b",
         "container-title": "汉语方言的地理语言学研究",
         "editor": [
             {
@@ -338,11 +360,11 @@
                 "given": "志耘"
             }
         ],
-        "id": "10.2.3:1b",
+        "event-place": "北京",
         "issued": {
             "date-parts": [
                 [
-                    2010
+                    "2010"
                 ]
             ]
         },
@@ -350,10 +372,11 @@
         "page": "138",
         "publisher": "商务印书馆",
         "publisher-place": "北京",
-        "title": "从几组声母的演变看天津方言形成的自然条件和历史条件",
-        "type": "paper-conference"
+        "title": "从几组声母的演变看天津方言形成的自然条件和历史条件"
     },
     {
+        "id": "10.2.3:02a",
+        "type": "article-journal",
         "author": [
             {
                 "family": "Kennedy",
@@ -364,22 +387,23 @@
                 "given": "R E"
             }
         ],
+        "citation-key": "10.2.3:02a",
         "container-title": "Sedimentology",
-        "id": "10.2.3:2a",
         "issued": {
             "date-parts": [
                 [
-                    1975
+                    "1975"
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "page": "311",
         "title": "Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England",
-        "type": "article-journal",
         "volume": "22"
     },
     {
+        "id": "10.2.3:02b",
+        "type": "article-journal",
         "author": [
             {
                 "family": "Kennedy",
@@ -390,39 +414,41 @@
                 "given": "R E"
             }
         ],
+        "citation-key": "10.2.3:02b",
         "container-title": "Lethaia",
-        "id": "10.2.3:2b",
         "issued": {
             "date-parts": [
                 [
-                    1975
+                    "1975"
                 ]
             ]
         },
-        "language": "en",
+        "language": "en-US",
         "page": "339",
         "title": "Morphology and genesis of nodular phosphates in the cenomanian of South-east England",
-        "type": "article-journal",
         "volume": "8"
     },
     {
+        "id": "10.2.4:01",
+        "type": "paper-conference",
         "author": [
             {
                 "family": "张",
                 "given": "忠智"
             }
         ],
+        "citation-key": "10.2.4:01",
         "container-title": "中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编",
         "editor": [
             {
                 "literal": "中国科学技术期刊编辑学会"
             }
         ],
-        "id": "10.2.4:1",
+        "event-place": "北京",
         "issued": {
             "date-parts": [
                 [
-                    1997
+                    "1997"
                 ]
             ]
         },
@@ -430,70 +456,75 @@
         "page": "33-34",
         "publisher": "中国科学技术期刊编辑学会学术委员会",
         "publisher-place": "北京",
-        "title": "科技书刊的总编(主编)的角色要求",
-        "type": "paper-conference"
+        "title": "科技书刊的总编(主编)的角色要求"
     },
     {
+        "id": "10.2.4:02",
+        "type": "book",
         "author": [
             {
                 "literal": "中国社会科学院语言研究所词典编辑室"
             }
         ],
+        "citation-key": "10.2.4:02",
         "edition": "修订本",
-        "id": "10.2.4:2",
+        "event-place": "北京",
         "issued": {
             "date-parts": [
                 [
-                    1996
+                    "1996"
                 ]
             ]
         },
         "language": "zh-CN",
         "publisher": "商务印书馆",
         "publisher-place": "北京",
-        "title": "现代汉语词典",
-        "type": "book"
+        "title": "现代汉语词典"
     },
     {
+        "id": "10.2.4:03",
+        "type": "article-journal",
         "author": [
             {
                 "family": "刘",
                 "given": "彻东"
             }
         ],
+        "citation-key": "10.2.4:03",
         "container-title": "中国出版",
-        "id": "10.2.4:3",
         "issue": "5",
         "issued": {
             "date-parts": [
                 [
-                    1998
+                    "1998"
                 ]
             ]
         },
         "language": "zh-CN",
         "page": "38-39",
-        "title": "中国的青年刊物: 个性特色为本仁",
-        "type": "article-journal"
+        "title": "中国的青年刊物: 个性特色为本仁"
     },
     {
+        "id": "10.2.4:04",
+        "type": "paper-conference",
         "author": [
             {
                 "family": "裴",
                 "given": "丽生"
             }
         ],
+        "citation-key": "10.2.4:04",
         "container-title": "中国科协学术期刊编辑工作经验交流会资料选",
         "editor": [
             {
                 "literal": "中国科学技术协会"
             }
         ],
-        "id": "10.2.4:4",
+        "event-place": "北京",
         "issued": {
             "date-parts": [
                 [
-                    1981
+                    "1981"
                 ]
             ]
         },
@@ -501,7 +532,6 @@
         "page": "2-10",
         "publisher": "中国科学技术协会学会工作部",
         "publisher-place": "北京",
-        "title": "在中国科协学术期刊编辑工作经验交流会上的讲话",
-        "type": "paper-conference"
+        "title": "在中国科协学术期刊编辑工作经验交流会上的讲话"
     }
 ]

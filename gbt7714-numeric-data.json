@@ -1120,7 +1120,314 @@
                 "given": "Gerald A."
             },
             {
-                "literal": "others"
+                "family": "Hellsten",
+                "given": "Uffe"
+            },
+            {
+                "family": "Hayes",
+                "given": "Richard D."
+            },
+            {
+                "family": "Grimwood",
+                "given": "Jane"
+            },
+            {
+                "family": "Jenkins",
+                "given": "Jerry"
+            },
+            {
+                "family": "Lindquist",
+                "given": "Erika"
+            },
+            {
+                "family": "Tice",
+                "given": "Hope"
+            },
+            {
+                "family": "Bauer",
+                "given": "Diane"
+            },
+            {
+                "family": "Goodstein",
+                "given": "David M."
+            },
+            {
+                "family": "Dubchak",
+                "given": "Inna"
+            },
+            {
+                "family": "Poliakov",
+                "given": "Alexandre"
+            },
+            {
+                "family": "Mizrachi",
+                "given": "Eshchar"
+            },
+            {
+                "family": "Kullan",
+                "given": "Anand R. K."
+            },
+            {
+                "family": "Hussey",
+                "given": "Steven G."
+            },
+            {
+                "family": "Pinard",
+                "given": "Desre"
+            },
+            {
+                "family": "Merwe",
+                "given": "Karen",
+                "non-dropping-particle": "van der"
+            },
+            {
+                "family": "Singh",
+                "given": "Pooja"
+            },
+            {
+                "family": "Jaarsveld",
+                "given": "Ida",
+                "non-dropping-particle": "van"
+            },
+            {
+                "family": "Silva-Junior",
+                "given": "Orzenil B."
+            },
+            {
+                "family": "Togawa",
+                "given": "Roberto C."
+            },
+            {
+                "family": "Pappas",
+                "given": "Marilia R."
+            },
+            {
+                "family": "Faria",
+                "given": "Danielle A."
+            },
+            {
+                "family": "Sansaloni",
+                "given": "Carolina P."
+            },
+            {
+                "family": "Petroli",
+                "given": "Cesar D."
+            },
+            {
+                "family": "Yang",
+                "given": "Xiaohan"
+            },
+            {
+                "family": "Ranjan",
+                "given": "Priya"
+            },
+            {
+                "family": "Tschaplinski",
+                "given": "Timothy J."
+            },
+            {
+                "family": "Ye",
+                "given": "Chu-Yu"
+            },
+            {
+                "family": "Li",
+                "given": "Ting"
+            },
+            {
+                "family": "Sterck",
+                "given": "Lieven"
+            },
+            {
+                "family": "Vanneste",
+                "given": "Kevin"
+            },
+            {
+                "family": "Murat",
+                "given": "Florent"
+            },
+            {
+                "family": "Soler",
+                "given": "Marçal"
+            },
+            {
+                "family": "Clemente",
+                "given": "Hélène San"
+            },
+            {
+                "family": "Saidi",
+                "given": "Naijib"
+            },
+            {
+                "family": "Cassan-Wang",
+                "given": "Hua"
+            },
+            {
+                "family": "Dunand",
+                "given": "Christophe"
+            },
+            {
+                "family": "Hefer",
+                "given": "Charles A."
+            },
+            {
+                "family": "Bornberg-Bauer",
+                "given": "Erich"
+            },
+            {
+                "family": "Kersting",
+                "given": "Anna R."
+            },
+            {
+                "family": "Vining",
+                "given": "Kelly"
+            },
+            {
+                "family": "Amarasinghe",
+                "given": "Vindhya"
+            },
+            {
+                "family": "Ranik",
+                "given": "Martin"
+            },
+            {
+                "family": "Naithani",
+                "given": "Sushma"
+            },
+            {
+                "family": "Elser",
+                "given": "Justin"
+            },
+            {
+                "family": "Boyd",
+                "given": "Alexander E."
+            },
+            {
+                "family": "Liston",
+                "given": "Aaron"
+            },
+            {
+                "family": "Spatafora",
+                "given": "Joseph W."
+            },
+            {
+                "family": "Dharmwardhana",
+                "given": "Palitha"
+            },
+            {
+                "family": "Raja",
+                "given": "Rajani"
+            },
+            {
+                "family": "Sullivan",
+                "given": "Christopher"
+            },
+            {
+                "family": "Romanel",
+                "given": "Elisson"
+            },
+            {
+                "family": "Alves-Ferreira",
+                "given": "Marcio"
+            },
+            {
+                "family": "Külheim",
+                "given": "Carsten"
+            },
+            {
+                "family": "Foley",
+                "given": "William"
+            },
+            {
+                "family": "Carocha",
+                "given": "Victor"
+            },
+            {
+                "family": "Paiva",
+                "given": "Jorge"
+            },
+            {
+                "family": "Kudrna",
+                "given": "David"
+            },
+            {
+                "family": "Brommonschenkel",
+                "given": "Sergio H."
+            },
+            {
+                "family": "Pasquali",
+                "given": "Giancarlo"
+            },
+            {
+                "family": "Byrne",
+                "given": "Margaret"
+            },
+            {
+                "family": "Rigault",
+                "given": "Philippe"
+            },
+            {
+                "family": "Tibbits",
+                "given": "Josquin"
+            },
+            {
+                "family": "Spokevicius",
+                "given": "Antanas"
+            },
+            {
+                "family": "Jones",
+                "given": "Rebecca C."
+            },
+            {
+                "family": "Steane",
+                "given": "Dorothy A."
+            },
+            {
+                "family": "Vaillancourt",
+                "given": "René E."
+            },
+            {
+                "family": "Potts",
+                "given": "Brad M."
+            },
+            {
+                "family": "Joubert",
+                "given": "Fourie"
+            },
+            {
+                "family": "Barry",
+                "given": "Kerrie"
+            },
+            {
+                "family": "Pappas",
+                "given": "Georgios J."
+            },
+            {
+                "family": "Strauss",
+                "given": "Steven H."
+            },
+            {
+                "family": "Jaiswal",
+                "given": "Pankaj"
+            },
+            {
+                "family": "Grima-Pettenati",
+                "given": "Jacqueline"
+            },
+            {
+                "family": "Salse",
+                "given": "Jérôme"
+            },
+            {
+                "family": "Van de Peer",
+                "given": "Yves"
+            },
+            {
+                "family": "Rokhsar",
+                "given": "Daniel S."
+            },
+            {
+                "family": "Schmutz",
+                "given": "Jeremy"
             }
         ],
         "citation-key": "04.4.2:09",
@@ -1151,6 +1458,7 @@
             }
         ],
         "citation-key": "04.5.2:01",
+        "event-place": "中国",
         "issued": {
             "date-parts": [
                 [
@@ -1162,6 +1470,7 @@
         },
         "language": "zh-CN",
         "number": "200610171314.3",
+        "publisher-place": "中国",
         "title": "全智能节电器"
     },
     {
@@ -1182,6 +1491,7 @@
             }
         ],
         "citation-key": "04.5.2:02",
+        "event-place": "中国",
         "issued": {
             "date-parts": [
                 [
@@ -1193,6 +1503,7 @@
         },
         "language": "zh-CN",
         "number": "01128777.2",
+        "publisher-place": "中国",
         "title": "光折变自适应光外差探测方法",
         "URL": "http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&leixin=0"
     },
@@ -1227,6 +1538,7 @@
             }
         ],
         "citation-key": "04.5.2:03",
+        "event-place": "US",
         "issued": {
             "date-parts": [
                 [
@@ -1238,6 +1550,7 @@
         },
         "language": "en-US",
         "number": "US6915001",
+        "publisher-place": "US",
         "title": "Electronic watermarking method and system",
         "URL": "http://www.google.co.in/patents/US6915001"
     },
@@ -1354,15 +1667,6 @@
             }
         ],
         "citation-key": "04.6.2:04",
-        "issued": {
-            "date-parts": [
-                [
-                    "2012",
-                    3,
-                    27
-                ]
-            ]
-        },
         "language": "en-US",
         "title": "About OCLC: History of cooperation",
         "URL": "http://www.oclc.org/about/cooperation.en.html"
@@ -2010,8 +2314,7 @@
         "type": "book",
         "author": [
             {
-                "family": "库恩",
-                "given": ""
+                "literal": "库恩"
             }
         ],
         "citation-key": "A.01:10",
@@ -2597,6 +2900,7 @@
             }
         ],
         "citation-key": "A.05:01",
+        "event-place": "中国",
         "issued": {
             "date-parts": [
                 [
@@ -2608,6 +2912,7 @@
         },
         "language": "zh-CN",
         "number": "201220158825.2",
+        "publisher-place": "中国",
         "title": "轨道火车及高速轨道火车紧急安全制动辅助装置"
     },
     {
@@ -2628,6 +2933,7 @@
             }
         ],
         "citation-key": "A.05:02",
+        "event-place": "中国",
         "issued": {
             "date-parts": [
                 [
@@ -2639,6 +2945,7 @@
         },
         "language": "zh-CN",
         "number": "01129210.5",
+        "publisher-place": "中国",
         "title": "一种荒漠化地区生态植被综合培育种植方法",
         "URL": "http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&leixin=0"
     },
@@ -2672,6 +2979,7 @@
             }
         ],
         "citation-key": "A.05:03",
+        "event-place": "US",
         "issued": {
             "date-parts": [
                 [
@@ -2683,6 +2991,7 @@
         },
         "language": "en-US",
         "number": "US828402",
+        "publisher-place": "US",
         "title": "Compiler",
         "URL": "http://FF&p=1&u=netahtml/PTO/search-bool.html&r=5&f=G&1=50&col=AND&d=PG01&sl=IBM.AS.&OS=AN/IBM/RS=AN/IBM"
     },

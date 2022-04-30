@@ -17,7 +17,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T 7714-2015 author-date style</summary>
-    <updated>2021-11-22T20:34:00+08:00</updated>
+    <updated>2022-04-30T08:10:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -147,7 +147,7 @@
     </names>
   </macro>
   <!-- 专著题名 -->
-  <macro name="container-title">
+  <macro name="container-booklike">
     <group delimiter=", ">
       <group delimiter=": ">
         <choose>
@@ -235,13 +235,13 @@
     </names>
   </macro>
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
-  <macro name="periodical-publishing">
+  <macro name="container-periodical">
       <choose>
         <if type="article-newspaper">
           <!-- 报纸只有刊名、日期和版次（page） -->
           <group>
             <group delimiter=", ">
-              <text macro="container-title" text-case="title"/>
+              <text variable="container-title"/>
               <text macro="issued-date"/>
             </group>
             <text variable="page" prefix="(" suffix=")"/>
@@ -251,7 +251,7 @@
           <group delimiter=": ">
             <group>
               <group delimiter=", ">
-                <text macro="container-title" text-case="title"/>
+                <text variable="container-title"/>
                 <text variable="volume"/>
               </group>
               <text variable="issue" prefix="(" suffix=")"/>
@@ -396,7 +396,7 @@
         </group>
         <group delimiter=". ">
           <text macro="container-author"/>
-          <text macro="container-title"/>
+          <text macro="container-booklike"/>
         </group>
       </group>
       <text macro="edition"/>
@@ -405,7 +405,7 @@
     </group>
   </macro>
   <!-- 连续出版物 -->
-  <macro name="serial-layout">
+  <macro name="periodical-layout">
     <group delimiter=". " suffix=".">
       <text macro="author-date"/>
       <text macro="title"/>
@@ -419,7 +419,7 @@
     <group delimiter=". " suffix=".">
       <text macro="author-date"/>
       <text macro="title"/>
-      <text macro="periodical-publishing"/>
+      <text macro="container-periodical"/>
       <text macro="url-doi"/>
     </group>
   </macro>
@@ -442,7 +442,7 @@
         <text macro="article-in-periodical-layout"/>
       </if>
       <else-if type="periodical">
-        <text macro="serial-layout"/>
+        <text macro="periodical-layout"/>
       </else-if>
       <else-if type="patent">
         <text macro="patent-layout"/>

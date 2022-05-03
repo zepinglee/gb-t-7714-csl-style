@@ -1277,7 +1277,466 @@ Issue:1</dc:description>
                     </foaf:Person>
                 </rdf:li>
                 <rdf:li>
-                   <foaf:Person><foaf:surname>others</foaf:surname></foaf:Person>
+                    <foaf:Person>
+                        <foaf:surname>Hellsten</foaf:surname>
+                        <foaf:givenName>Uffe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenName>Richard D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grimwood</foaf:surname>
+                        <foaf:givenName>Jane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jenkins</foaf:surname>
+                        <foaf:givenName>Jerry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lindquist</foaf:surname>
+                        <foaf:givenName>Erika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tice</foaf:surname>
+                        <foaf:givenName>Hope</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bauer</foaf:surname>
+                        <foaf:givenName>Diane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodstein</foaf:surname>
+                        <foaf:givenName>David M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dubchak</foaf:surname>
+                        <foaf:givenName>Inna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poliakov</foaf:surname>
+                        <foaf:givenName>Alexandre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mizrachi</foaf:surname>
+                        <foaf:givenName>Eshchar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kullan</foaf:surname>
+                        <foaf:givenName>Anand R. K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hussey</foaf:surname>
+                        <foaf:givenName>Steven G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pinard</foaf:surname>
+                        <foaf:givenName>Desre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van der Merwe</foaf:surname>
+                        <foaf:givenName>Karen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Pooja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Jaarsveld</foaf:surname>
+                        <foaf:givenName>Ida</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva-Junior</foaf:surname>
+                        <foaf:givenName>Orzenil B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togawa</foaf:surname>
+                        <foaf:givenName>Roberto C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pappas</foaf:surname>
+                        <foaf:givenName>Marilia R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Faria</foaf:surname>
+                        <foaf:givenName>Danielle A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sansaloni</foaf:surname>
+                        <foaf:givenName>Carolina P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petroli</foaf:surname>
+                        <foaf:givenName>Cesar D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Xiaohan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ranjan</foaf:surname>
+                        <foaf:givenName>Priya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tschaplinski</foaf:surname>
+                        <foaf:givenName>Timothy J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ye</foaf:surname>
+                        <foaf:givenName>Chu-Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sterck</foaf:surname>
+                        <foaf:givenName>Lieven</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vanneste</foaf:surname>
+                        <foaf:givenName>Kevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murat</foaf:surname>
+                        <foaf:givenName>Florent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soler</foaf:surname>
+                        <foaf:givenName>Marçal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clemente</foaf:surname>
+                        <foaf:givenName>Hélène San</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saidi</foaf:surname>
+                        <foaf:givenName>Naijib</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cassan-Wang</foaf:surname>
+                        <foaf:givenName>Hua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunand</foaf:surname>
+                        <foaf:givenName>Christophe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hefer</foaf:surname>
+                        <foaf:givenName>Charles A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bornberg-Bauer</foaf:surname>
+                        <foaf:givenName>Erich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kersting</foaf:surname>
+                        <foaf:givenName>Anna R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vining</foaf:surname>
+                        <foaf:givenName>Kelly</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amarasinghe</foaf:surname>
+                        <foaf:givenName>Vindhya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ranik</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naithani</foaf:surname>
+                        <foaf:givenName>Sushma</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Elser</foaf:surname>
+                        <foaf:givenName>Justin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boyd</foaf:surname>
+                        <foaf:givenName>Alexander E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liston</foaf:surname>
+                        <foaf:givenName>Aaron</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spatafora</foaf:surname>
+                        <foaf:givenName>Joseph W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dharmwardhana</foaf:surname>
+                        <foaf:givenName>Palitha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raja</foaf:surname>
+                        <foaf:givenName>Rajani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sullivan</foaf:surname>
+                        <foaf:givenName>Christopher</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Romanel</foaf:surname>
+                        <foaf:givenName>Elisson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alves-Ferreira</foaf:surname>
+                        <foaf:givenName>Marcio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Külheim</foaf:surname>
+                        <foaf:givenName>Carsten</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Foley</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carocha</foaf:surname>
+                        <foaf:givenName>Victor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paiva</foaf:surname>
+                        <foaf:givenName>Jorge</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kudrna</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brommonschenkel</foaf:surname>
+                        <foaf:givenName>Sergio H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pasquali</foaf:surname>
+                        <foaf:givenName>Giancarlo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Byrne</foaf:surname>
+                        <foaf:givenName>Margaret</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rigault</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tibbits</foaf:surname>
+                        <foaf:givenName>Josquin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spokevicius</foaf:surname>
+                        <foaf:givenName>Antanas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jones</foaf:surname>
+                        <foaf:givenName>Rebecca C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steane</foaf:surname>
+                        <foaf:givenName>Dorothy A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaillancourt</foaf:surname>
+                        <foaf:givenName>René E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Potts</foaf:surname>
+                        <foaf:givenName>Brad M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joubert</foaf:surname>
+                        <foaf:givenName>Fourie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barry</foaf:surname>
+                        <foaf:givenName>Kerrie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pappas</foaf:surname>
+                        <foaf:givenName>Georgios J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Strauss</foaf:surname>
+                        <foaf:givenName>Steven H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jaiswal</foaf:surname>
+                        <foaf:givenName>Pankaj</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grima-Pettenati</foaf:surname>
+                        <foaf:givenName>Jacqueline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salse</foaf:surname>
+                        <foaf:givenName>Jérôme</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van de Peer</foaf:surname>
+                        <foaf:givenName>Yves</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rokhsar</foaf:surname>
+                        <foaf:givenName>Daniel S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmutz</foaf:surname>
+                        <foaf:givenName>Jeremy</foaf:givenName>
+                    </foaf:Person>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
@@ -1295,6 +1754,15 @@ Issue:1</dc:description>
     </bib:Article>
     <bib:Patent rdf:about="#item_37">
         <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>中国</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
         <z:inventors>
             <rdf:Seq>
                 <rdf:li>
@@ -1313,6 +1781,15 @@ Issue:1</dc:description>
     </bib:Patent>
     <bib:Patent rdf:about="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&amp;leixin=0">
         <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>中国</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
         <z:inventors>
             <rdf:Seq>
                 <rdf:li>
@@ -1336,6 +1813,15 @@ Issue:1</dc:description>
     </bib:Patent>
     <bib:Patent rdf:about="http://www.google.co.in/patents/US6915001">
         <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>US</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
         <z:inventors>
             <rdf:Seq>
                 <rdf:li>
@@ -1462,7 +1948,6 @@ Issue:1</dc:description>
             </rdf:Seq>
         </bib:authors>
         <dc:title>About OCLC: History of cooperation</dc:title>
-        <dc:date>2012-03-27</dc:date>
         <z:language>en-US</z:language>
         <dc:identifier>
             <dcterms:URI>
@@ -1882,6 +2367,35 @@ Pages: 15-16</dc:description>
             <foaf:Organization>
                 <vcard:adr>
                     <vcard:Address>
+                       <vcard:locality>北京</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>中华书局</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>登原</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>国史旧闻</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>zh-CN</z:language>
+        <dc:description>Citation Key: 10.1.3:04
+Pages: 29</dc:description>
+        <prism:volume>第 1 卷</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="#item_58">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
                        <vcard:locality>Chicago</vcard:locality>
                     </vcard:Address>
                 </vcard:adr>
@@ -1903,7 +2417,7 @@ Pages: 15-16</dc:description>
         <z:language>en-US</z:language>
         <dc:description>Citation Key: 10.2.1:01</dc:description>
     </bib:Book>
-    <bib:Article rdf:about="#item_58">
+    <bib:Article rdf:about="#item_59">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -1928,7 +2442,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.1:02</dc:description>
         <bib:pages>549-560</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_59">
+    <bib:Article rdf:about="#item_60">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -1965,7 +2479,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.3:01a</dc:description>
         <bib:pages>147</bib:pages>
     </bib:Article>
-    <rdf:Description rdf:about="#item_60">
+    <rdf:Description rdf:about="#item_61">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal><dc:title>汉语方言的地理语言学研究</dc:title></bib:Journal>
@@ -2006,7 +2520,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.3:01b</dc:description>
         <bib:pages>138</bib:pages>
     </rdf:Description>
-    <bib:Article rdf:about="#item_61">
+    <bib:Article rdf:about="#item_62">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -2035,7 +2549,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.3:02a</dc:description>
         <bib:pages>311</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_62">
+    <bib:Article rdf:about="#item_63">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -2064,7 +2578,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.3:02b</dc:description>
         <bib:pages>339</bib:pages>
     </bib:Article>
-    <rdf:Description rdf:about="#item_63">
+    <rdf:Description rdf:about="#item_64">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -2106,7 +2620,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.4:01</dc:description>
         <bib:pages>33-34</bib:pages>
     </rdf:Description>
-    <bib:Book rdf:about="#item_64">
+    <bib:Book rdf:about="#item_65">
         <z:itemType>book</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2133,7 +2647,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.4:02</dc:description>
         <prism:edition>修订本</prism:edition>
     </bib:Book>
-    <bib:Article rdf:about="#item_65">
+    <bib:Article rdf:about="#item_66">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -2156,7 +2670,7 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.4:03</dc:description>
         <bib:pages>38-39</bib:pages>
     </bib:Article>
-    <rdf:Description rdf:about="#item_66">
+    <rdf:Description rdf:about="#item_67">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal><dc:title>中国科协学术期刊编辑工作经验交流会资料选</dc:title></bib:Journal>
@@ -2196,35 +2710,6 @@ Pages: 15-16</dc:description>
         <dc:description>Citation Key: 10.2.4:04</dc:description>
         <bib:pages>2-10</bib:pages>
     </rdf:Description>
-    <bib:Book rdf:about="#item_67">
-        <z:itemType>book</z:itemType>
-        <dc:publisher>
-            <foaf:Organization>
-                <vcard:adr>
-                    <vcard:Address>
-                       <vcard:locality>北京</vcard:locality>
-                    </vcard:Address>
-                </vcard:adr>
-                <foaf:name>中华书局</foaf:name>
-            </foaf:Organization>
-        </dc:publisher>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>陈</foaf:surname>
-                        <foaf:givenName>登原</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <dc:title>国史旧闻</dc:title>
-        <dc:date>2000</dc:date>
-        <z:language>zh-CN</z:language>
-        <dc:description>Citation Key: 10.1.3:04
-Pages: 29</dc:description>
-        <prism:volume>第 1 卷</prism:volume>
-    </bib:Book>
     <bib:Book rdf:about="#item_68">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -3155,6 +3640,15 @@ Pages: 27</dc:description>
     </bib:Thesis>
     <bib:Patent rdf:about="#item_97">
         <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>中国</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
         <z:inventors>
             <rdf:Seq>
                 <rdf:li>
@@ -3173,6 +3667,15 @@ Pages: 27</dc:description>
     </bib:Patent>
     <bib:Patent rdf:about="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&amp;leixin=0">
         <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>中国</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
         <z:inventors>
             <rdf:Seq>
                 <rdf:li>
@@ -3196,6 +3699,15 @@ Pages: 27</dc:description>
     </bib:Patent>
     <bib:Patent rdf:about="http://FF&amp;p=1&amp;u=netahtml/PTO/search-bool.html&amp;r=5&amp;f=G&amp;1=50&amp;col=AND&amp;d=PG01&amp;sl=IBM.AS.&amp;OS=AN/IBM/RS=AN/IBM">
         <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>US</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
         <z:inventors>
             <rdf:Seq>
                 <rdf:li>

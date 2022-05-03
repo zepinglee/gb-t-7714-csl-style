@@ -89,7 +89,7 @@
 
 [42] BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf.
 
-[43] ONLINE COMPUTER LIBRARY CENTER, INC. About OCLC: History of cooperation[EB/OL]. (2012-03-27)[2012-03-27]. http://www.oclc.org/about/cooperation.en.html.
+[43] ONLINE COMPUTER LIBRARY CENTER, INC. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. http://www.oclc.org/about/cooperation.en.html.
 
 [44] HOPKINSON A. UNIMARC and metadata: Dublin core[EB/OL]. (2009-04-22)[2013-03-27]. http://archive.ifla.org/IV/ifla64/138-161e.htm.
 
